@@ -1,0 +1,2967 @@
+Province/State	Country/Region	Last Update	Confirmed	Deaths	Recovered
+South Carolina	US	4/11/2020 22:45	9	0	0
+Louisiana	US	4/11/2020 22:45	98	4	0
+Virginia	US	4/11/2020 22:45	15	0	0
+Idaho	US	4/11/2020 22:45	513	6	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	6	0	0
+Missouri	US	4/11/2020 22:45	11	0	0
+Oklahoma	US	4/11/2020 22:45	27	2	0
+Colorado	US	4/11/2020 22:45	543	23	0
+Idaho	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	25	0	0
+Indiana	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	49	1	0
+Nebraska	US	4/11/2020 22:45	45	0	0
+Ohio	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	44	1	0
+Washington	US	4/11/2020 22:45	30	0	0
+Wisconsin	US	4/11/2020 22:45	2	0	0
+Vermont	US	4/11/2020 22:45	54	0	0
+South Carolina	US	4/11/2020 22:45	50	1	0
+Florida	US	4/11/2020 22:45	174	0	0
+North Carolina	US	4/11/2020 22:45	34	0	0
+California	US	4/11/2020 22:45	806	21	0
+Colorado	US	4/11/2020 22:45	7	2	0
+New York	US	4/11/2020 22:45	446	12	0
+Wyoming	US	4/11/2020 22:45	5	0	0
+Virginia	US	4/11/2020 22:45	46	0	0
+Mississippi	US	4/11/2020 22:45	7	0	0
+North Carolina	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	188	1	0
+Iowa	US	4/11/2020 22:45	21	1	0
+Michigan	US	4/11/2020 22:45	19	0	0
+Maryland	US	4/11/2020 22:45	11	0	0
+New York	US	4/11/2020 22:45	26	1	0
+North Carolina	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Pennsylvania	US	4/11/2020 22:45	836	19	0
+Indiana	US	4/11/2020 22:45	136	10	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	71	7	0
+Ohio	US	4/11/2020 22:45	27	1	0
+South Carolina	US	4/11/2020 22:45	4	0	0
+Michigan	US	4/11/2020 22:45	1	0	0
+California	US	4/11/2020 22:45	2	0	0
+California	US	4/11/2020 22:45	7	0	0
+Virginia	US	4/11/2020 22:45	9	0	0
+Virginia	US	4/11/2020 22:45	10	0	0
+Mississippi	US	4/11/2020 22:45	11	1	0
+Alaska	US	4/11/2020 22:45	121	4	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	3	1	0
+South Carolina	US	4/11/2020 22:45	102	5	0
+Tennessee	US	4/11/2020 22:45	12	1	0
+Texas	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	11	0	0
+Maine	US	4/11/2020 22:45	27	0	0
+Texas	US	4/11/2020 22:45	16	0	0
+Maryland	US	4/11/2020 22:45	615	19	0
+Minnesota	US	4/11/2020 22:45	58	0	0
+North Carolina	US	4/11/2020 22:45	10	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	7	0	0
+Arizona	US	4/11/2020 22:45	66	0	0
+Iowa	US	4/11/2020 22:45	1	1	0
+Georgia	US	4/11/2020 22:45	9	0	0
+Virginia	US	4/11/2020 22:45	7	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Colorado	US	4/11/2020 22:45	931	30	0
+Colorado	US	4/11/2020 22:45	6	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	349	2	0
+Pennsylvania	US	4/11/2020 22:45	26	1	0
+Maine	US	4/11/2020 22:45	2	0	0
+Louisiana	US	4/11/2020 22:45	415	20	0
+North Carolina	US	4/11/2020 22:45	4	0	0
+Ohio	US	4/11/2020 22:45	5	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	10	0	0
+Ohio	US	4/11/2020 22:45	24	0	0
+Washington	US	4/11/2020 22:45	4	0	0
+Louisiana	US	4/11/2020 22:45	109	1	0
+Texas	US	4/11/2020 22:45	8	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	3	1	0
+Georgia	US	4/11/2020 22:45	2	0	0
+New Jersey	US	4/11/2020 22:45	230	7	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	18	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	14	1	0
+Virginia	US	4/11/2020 22:45	17	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	8	0	0
+Alabama	US	4/11/2020 22:45	19	1	0
+Louisiana	US	4/11/2020 22:45	61	1	0
+Colorado	US	4/11/2020 22:45	9	0	0
+Georgia	US	4/11/2020 22:45	14	0	0
+Florida	US	4/11/2020 22:45	17	2	0
+Georgia	US	4/11/2020 22:45	12	2	0
+Alabama	US	4/11/2020 22:45	66	1	0
+Georgia	US	4/11/2020 22:45	44	1	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Maryland	US	4/11/2020 22:45	1173	26	0
+Maryland	US	4/11/2020 22:45	756	22	0
+South Carolina	US	4/11/2020 22:45	7	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	7	0	0
+Idaho	US	4/11/2020 22:45	5	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	9	0	0
+West Virginia	US	4/11/2020 22:45	4	0	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+Massachusetts	US	4/11/2020 22:45	480	15	0
+South Carolina	US	4/11/2020 22:45	5	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	6	0	0
+Georgia	US	4/11/2020 22:45	51	3	0
+Michigan	US	4/11/2020 22:45	8	0	0
+Missouri	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	108	4	0
+Kansas	US	4/11/2020 22:45	4	0	0
+Georgia	US	4/11/2020 22:45	209	15	0
+Texas	US	4/11/2020 22:45	26	1	0
+Missouri	US	4/11/2020 22:45	6	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Arkansas	US	4/11/2020 22:45	4	0	0
+Florida	US	4/11/2020 22:45	36	1	0
+Michigan	US	4/11/2020 22:45	53	0	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	21	2	0
+North Carolina	US	4/11/2020 22:45	13	0	0
+South Carolina	US	4/11/2020 22:45	191	6	0
+Louisiana	US	4/11/2020 22:45	27	1	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	143	13	0
+Montana	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	5	1	0
+Tennessee	US	4/11/2020 22:45	17	1	0
+Virginia	US	4/11/2020 22:45	15	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+New Hampshire	US	4/11/2020 22:45	21	0	0
+Texas	US	4/11/2020 22:45	91	3	0
+Ohio	US	4/11/2020 22:45	49	2	0
+Minnesota	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	8	0	0
+Vermont	US	4/11/2020 22:45	31	1	0
+Arkansas	US	4/11/2020 22:45	47	0	0
+Indiana	US	4/11/2020 22:45	0	0	0
+Iowa	US	4/11/2020 22:45	16	1	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	5	0	0
+Missouri	US	4/11/2020 22:45	3	0	0
+Oregon	US	4/11/2020 22:45	21	2	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Washington	US	4/11/2020 22:45	244	25	0
+Michigan	US	4/11/2020 22:45	0	0	0
+New Jersey	US	4/11/2020 22:45	9362	435	0
+South Carolina	US	4/11/2020 22:45	67	1	0
+West Virginia	US	4/11/2020 22:45	89	0	0
+Pennsylvania	US	4/11/2020 22:45	930	19	0
+Massachusetts	US	4/11/2020 22:45	336	20	0
+New Mexico	US	4/11/2020 22:45	407	13	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Michigan	US	4/11/2020 22:45	94	3	0
+North Carolina	US	4/11/2020 22:45	12	1	0
+Alaska	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	665	24	0
+Alabama	US	4/11/2020 22:45	13	0	0
+Georgia	US	4/11/2020 22:45	63	1	0
+Louisiana	US	4/11/2020 22:45	30	1	0
+Montana	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Idaho	US	4/11/2020 22:45	2	0	0
+Iowa	US	4/11/2020 22:45	41	0	0
+Indiana	US	4/11/2020 22:45	5	0	0
+North Carolina	US	4/11/2020 22:45	1	0	0
+Idaho	US	4/11/2020 22:45	452	5	0
+Pennsylvania	US	4/11/2020 22:45	10	0	0
+Texas	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Georgia	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Alabama	US	4/11/2020 22:45	12	0	0
+Tennessee	US	4/11/2020 22:45	46	3	0
+Minnesota	US	4/11/2020 22:45	22	0	0
+Mississippi	US	4/11/2020 22:45	65	3	0
+Missouri	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	11	0	0
+Arkansas	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	7	1	0
+Indiana	US	4/11/2020 22:45	103	2	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Kentucky	US	4/11/2020 22:45	23	1	0
+Missouri	US	4/11/2020 22:45	79	1	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	178	9	0
+Virginia	US	4/11/2020 22:45	22	0	0
+Colorado	US	4/11/2020 22:45	234	7	0
+Kansas	US	4/11/2020 22:45	7	1	0
+Kentucky	US	4/11/2020 22:45	4	1	0
+Texas	US	4/11/2020 22:45	30	1	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Utah	US	4/11/2020 22:45	12	0	0
+Kentucky	US	4/11/2020 22:45	17	2	0
+Kentucky	US	4/11/2020 22:45	9	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	24	0	0
+Pennsylvania	US	4/11/2020 22:45	18	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Tennessee	US	4/11/2020 22:45	31	0	0
+Michigan	US	4/11/2020 22:45	26	2	0
+Georgia	US	4/11/2020 22:45	7	1	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	216	2	0
+Texas	US	4/11/2020 22:45	134	10	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	120	2	0
+Massachusetts	US	4/11/2020 22:45	1191	39	0
+Rhode Island	US	4/11/2020 22:45	39	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	4	0	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	6	0	0
+Georgia	US	4/11/2020 22:45	18	1	0
+New York	US	4/11/2020 22:45	117	6	0
+Colorado	US	4/11/2020 22:45	68	2	0
+Florida	US	4/11/2020 22:45	2806	76	0
+Indiana	US	4/11/2020 22:45	12	1	0
+Minnesota	US	4/11/2020 22:45	7	1	0
+Ohio	US	4/11/2020 22:45	5	1	0
+South Dakota	US	4/11/2020 22:45	14	0	0
+Texas	US	4/11/2020 22:45	10	0	0
+Wisconsin	US	4/11/2020 22:45	60	1	0
+North Carolina	US	4/11/2020 22:45	34	1	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	28	1	0
+Oklahoma	US	4/11/2020 22:45	3	0	0
+Iowa	US	4/11/2020 22:45	6	0	0
+Missouri	US	4/11/2020 22:45	20	1	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	14	0	0
+Pennsylvania	US	4/11/2020 22:45	1107	32	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Nebraska	US	4/11/2020 22:45	33	1	0
+Wisconsin	US	4/11/2020 22:45	3	1	0
+Kentucky	US	4/11/2020 22:45	14	2	0
+Georgia	US	4/11/2020 22:45	16	1	0
+Alabama	US	4/11/2020 22:45	4	0	0
+North Carolina	US	4/11/2020 22:45	37	2	0
+Illinois	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	28	1	0
+North Carolina	US	4/11/2020 22:45	61	2	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+North Dakota	US	4/11/2020 22:45	49	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+New Jersey	US	4/11/2020 22:45	1031	22	0
+Texas	US	4/11/2020 22:45	6	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	6	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	8	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+Missouri	US	4/11/2020 22:45	13	0	0
+Ohio	US	4/11/2020 22:45	115	2	0
+Pennsylvania	US	4/11/2020 22:45	128	3	0
+California	US	4/11/2020 22:45	14	0	0
+South Dakota	US	4/11/2020 22:45	0	0	0
+Georgia	US	4/11/2020 22:45	27	0	0
+North Carolina	US	4/11/2020 22:45	107	1	0
+West Virginia	US	4/11/2020 22:45	21	0	0
+Utah	US	4/11/2020 22:45	34	0	0
+Louisiana	US	4/11/2020 22:45	974	39	0
+Oklahoma	US	4/11/2020 22:45	9	0	0
+California	US	4/11/2020 22:45	8	0	0
+Louisiana	US	4/11/2020 22:45	248	8	0
+Kentucky	US	4/11/2020 22:45	5	0	0
+Louisiana	US	4/11/2020 22:45	18	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	17	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+Vermont	US	4/11/2020 22:45	8	0	0
+Alabama	US	4/11/2020 22:45	57	0	0
+Florida	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	41	2	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	71	1	0
+Mississippi	US	4/11/2020 22:45	14	0	0
+South Carolina	US	4/11/2020 22:45	6	1	0
+Texas	US	4/11/2020 22:45	14	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	21	1	0
+Kentucky	US	4/11/2020 22:45	8	1	0
+Wisconsin	US	4/11/2020 22:45	4	0	0
+Maryland	US	4/11/2020 22:45	82	1	0
+Idaho	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	13	1	0
+Georgia	US	4/11/2020 22:45	20	0	0
+Missouri	US	4/11/2020 22:45	26	1	0
+New Jersey	US	4/11/2020 22:45	1180	29	0
+Louisiana	US	4/11/2020 22:45	2	0	0
+Pennsylvania	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	159	3	0
+Texas	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	29	3	0
+Tennessee	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	9	0	0
+Wyoming	US	4/11/2020 22:45	11	0	0
+Oklahoma	US	4/11/2020 22:45	56	1	0
+Georgia	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	7	0	0
+Idaho	US	4/11/2020 22:45	145	5	0
+Missouri	US	4/11/2020 22:45	28	1	0
+New Jersey	US	4/11/2020 22:45	129	5	0
+Montana	US	4/11/2020 22:45	6	0	0
+Pennsylvania	US	4/11/2020 22:45	98	3	0
+Utah	US	4/11/2020 22:45	2	0	0
+Wyoming	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	19	0	0
+Maryland	US	4/11/2020 22:45	15	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	201	5	0
+Illinois	US	4/11/2020 22:45	5	1	0
+Indiana	US	4/11/2020 22:45	5	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+Maryland	US	4/11/2020 22:45	214	25	0
+Mississippi	US	4/11/2020 22:45	7	0	0
+New Hampshire	US	4/11/2020 22:45	28	0	0
+Ohio	US	4/11/2020 22:45	11	0	0
+Tennessee	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Nevada	US	4/11/2020 22:45	16	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	3	1	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+North Carolina	US	4/11/2020 22:45	21	1	0
+Minnesota	US	4/11/2020 22:45	12	0	0
+Montana	US	4/11/2020 22:45	13	0	0
+Indiana	US	4/11/2020 22:45	23	1	0
+Michigan	US	4/11/2020 22:45	12	1	0
+Minnesota	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	34	2	0
+Nebraska	US	4/11/2020 22:45	3	0	0
+North Dakota	US	4/11/2020 22:45	95	2	0
+Texas	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	7	1	0
+Texas	US	4/11/2020 22:45	11	1	0
+North Carolina	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	20	1	0
+North Carolina	US	4/11/2020 22:45	33	1	0
+Georgia	US	4/11/2020 22:45	12	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	19	0	0
+New York	US	4/11/2020 22:45	28	1	0
+Maryland	US	4/11/2020 22:45	66	1	0
+Iowa	US	4/11/2020 22:45	20	0	0
+Missouri	US	4/11/2020 22:45	5	0	0
+Nebraska	US	4/11/2020 22:45	0	0	0
+Pennsylvania	US	4/11/2020 22:45	69	0	0
+Iowa	US	4/11/2020 22:45	13	0	0
+Colorado	US	4/11/2020 22:45	27	3	0
+Alabama	US	4/11/2020 22:45	181	8	0
+Texas	US	4/11/2020 22:45	24	0	0
+Illinois	US	4/11/2020 22:45	85	2	0
+Ohio	US	4/11/2020 22:45	6	1	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Maryland	US	4/11/2020 22:45	235	5	0
+Virginia	US	4/11/2020 22:45	8	0	0
+South Dakota	US	4/11/2020 22:45	3	0	0
+South Carolina	US	4/11/2020 22:45	331	1	0
+Michigan	US	4/11/2020 22:45	11	0	0
+Florida	US	4/11/2020 22:45	107	5	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	31	1	0
+Georgia	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	142	5	0
+North Carolina	US	4/11/2020 22:45	37	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	5	1	0
+Kansas	US	4/11/2020 22:45	3	0	0
+New York	US	4/11/2020 22:45	22	3	0
+New Mexico	US	4/11/2020 22:45	18	0	0
+Tennessee	US	4/11/2020 22:45	17	0	0
+Michigan	US	4/11/2020 22:45	11	1	0
+Washington	US	4/11/2020 22:45	53	5	0
+New York	US	4/11/2020 22:45	60	1	0
+New York	US	4/11/2020 22:45	61	0	0
+Alabama	US	4/11/2020 22:45	7	0	0
+Georgia	US	4/11/2020 22:45	182	7	0
+Kansas	US	4/11/2020 22:45	6	0	0
+North Carolina	US	4/11/2020 22:45	11	1	0
+Oklahoma	US	4/11/2020 22:45	18	1	0
+South Carolina	US	4/11/2020 22:45	8	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	115	0	0
+New Hampshire	US	4/11/2020 22:45	17	0	0
+Pennsylvania	US	4/11/2020 22:45	532	15	0
+South Carolina	US	4/11/2020 22:45	18	0	0
+Tennessee	US	4/11/2020 22:45	6	0	0
+South Carolina	US	4/11/2020 22:45	22	0	0
+Virginia	US	4/11/2020 22:45	203	0	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	22	2	0
+Arkansas	US	4/11/2020 22:45	5	0	0
+Alabama	US	4/11/2020 22:45	30	0	0
+Michigan	US	4/11/2020 22:45	0	0	0
+Wisconsin	US	4/11/2020 22:45	18	0	0
+Minnesota	US	4/11/2020 22:45	6	1	0
+Vermont	US	4/11/2020 22:45	351	16	0
+Alabama	US	4/11/2020 22:45	8	0	0
+Mississippi	US	4/11/2020 22:45	10	1	0
+Oklahoma	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	24	3	0
+Kentucky	US	4/11/2020 22:45	45	3	0
+Missouri	US	4/11/2020 22:45	17	0	0
+New Mexico	US	4/11/2020 22:45	24	0	0
+Florida	US	4/11/2020 22:45	66	6	0
+Oregon	US	4/11/2020 22:45	116	3	0
+Louisiana	US	4/11/2020 22:45	41	3	0
+Mississippi	US	4/11/2020 22:45	5	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Washington	US	4/11/2020 22:45	11	0	0
+Michigan	US	4/11/2020 22:45	4	1	0
+South Carolina	US	4/11/2020 22:45	85	4	0
+Pennsylvania	US	4/11/2020 22:45	15	0	0
+Arkansas	US	4/11/2020 22:45	27	0	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Indiana	US	4/11/2020 22:45	106	8	0
+Kentucky	US	4/11/2020 22:45	11	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Nevada	US	4/11/2020 22:45	2144	75	0
+Ohio	US	4/11/2020 22:45	18	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Washington	US	4/11/2020 22:45	220	14	0
+Wisconsin	US	4/11/2020 22:45	7	0	0
+Alabama	US	4/11/2020 22:45	15	0	0
+Georgia	US	4/11/2020 22:45	82	11	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	13	1	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Oregon	US	4/11/2020 22:45	6	0	0
+Alabama	US	4/11/2020 22:45	12	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	158	8	0
+Georgia	US	4/11/2020 22:45	15	1	0
+Indiana	US	4/11/2020 22:45	11	0	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	29	0	0
+Mississippi	US	4/11/2020 22:45	17	0	0
+Missouri	US	4/11/2020 22:45	46	1	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	4	0	0
+South Dakota	US	4/11/2020 22:45	6	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	331	11	0
+Iowa	US	4/11/2020 22:45	7	0	0
+Colorado	US	4/11/2020 22:45	11	0	0
+Pennsylvania	US	4/11/2020 22:45	9	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Alabama	US	4/11/2020 22:45	12	0	0
+Arkansas	US	4/11/2020 22:45	69	4	0
+Ohio	US	4/11/2020 22:45	41	1	0
+Arkansas	US	4/11/2020 22:45	8	0	0
+North Carolina	US	4/11/2020 22:45	35	0	0
+Oklahoma	US	4/11/2020 22:45	247	17	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	37	0	0
+Indiana	US	4/11/2020 22:45	11	1	0
+Iowa	US	4/11/2020 22:45	28	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	90	3	0
+Missouri	US	4/11/2020 22:45	11	0	0
+New York	US	4/11/2020 22:45	43	2	0
+Ohio	US	4/11/2020 22:45	15	1	0
+Pennsylvania	US	4/11/2020 22:45	7	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	38	1	0
+Georgia	US	4/11/2020 22:45	696	33	0
+Arizona	US	4/11/2020 22:45	13	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Arizona	US	4/11/2020 22:45	238	15	0
+South Dakota	US	4/11/2020 22:45	12	0	0
+Alabama	US	4/11/2020 22:45	17	0	0
+Georgia	US	4/11/2020 22:45	53	2	0
+Tennessee	US	4/11/2020 22:45	11	0	0
+Kansas	US	4/11/2020 22:45	38	1	0
+Alabama	US	4/11/2020 22:45	8	1	0
+Missouri	US	4/11/2020 22:45	36	1	0
+Illinois	US	4/11/2020 22:45	5	0	0
+Nebraska	US	4/11/2020 22:45	4	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+South Carolina	US	4/11/2020 22:45	15	0	0
+Florida	US	4/11/2020 22:45	344	4	0
+Texas	US	4/11/2020 22:45	425	7	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	7	0	0
+Georgia	US	4/11/2020 22:45	80	5	0
+Arkansas	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	24	0	0
+Georgia	US	4/11/2020 22:45	66	0	0
+New York	US	4/11/2020 22:45	87	7	0
+Oregon	US	4/11/2020 22:45	10	0	0
+Pennsylvania	US	4/11/2020 22:45	99	2	0
+Washington	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	24	1	0
+Ohio	US	4/11/2020 22:45	96	6	0
+North Carolina	US	4/11/2020 22:45	31	1	0
+California	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	37	4	0
+Oklahoma	US	4/11/2020 22:45	49	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	17	1	0
+Alabama	US	4/11/2020 22:45	3	0	0
+California	US	4/11/2020 22:45	530	11	0
+Wyoming	US	4/11/2020 22:45	6	0	0
+Arkansas	US	4/11/2020 22:45	4	1	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Illinois	US	4/11/2020 22:45	13417	455	0
+Texas	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+New Hampshire	US	4/11/2020 22:45	2	0	0
+Alabama	US	4/11/2020 22:45	11	0	0
+Mississippi	US	4/11/2020 22:45	28	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	17	0	0
+Texas	US	4/11/2020 22:45	34	0	0
+Ohio	US	4/11/2020 22:45	15	0	0
+Colorado	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	4	0	0
+Minnesota	US	4/11/2020 22:45	5	0	0
+Alabama	US	4/11/2020 22:45	11	0	0
+Mississippi	US	4/11/2020 22:45	12	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	101	2	0
+Kansas	US	4/11/2020 22:45	1	1	0
+Washington	US	4/11/2020 22:45	23	0	0
+Oklahoma	US	4/11/2020 22:45	6	0	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Arkansas	US	4/11/2020 22:45	31	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	24	1	0
+Arkansas	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	4	0	0
+Indiana	US	4/11/2020 22:45	12	0	0
+Iowa	US	4/11/2020 22:45	6	0	0
+Kansas	US	4/11/2020 22:45	6	1	0
+Michigan	US	4/11/2020 22:45	8	1	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Ohio	US	4/11/2020 22:45	13	0	0
+Pennsylvania	US	4/11/2020 22:45	15	0	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	54	3	0
+Alabama	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	67	0	0
+Arkansas	US	4/11/2020 22:45	89	2	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+Oregon	US	4/11/2020 22:45	1	0	0
+Wyoming	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Minnesota	US	4/11/2020 22:45	13	0	0
+Colorado	US	4/11/2020 22:45	1	1	0
+Alabama	US	4/11/2020 22:45	31	1	0
+Virginia	US	4/11/2020 22:45	17	0	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Maine	US	4/11/2020 22:45	284	12	0
+New Jersey	US	4/11/2020 22:45	154	3	0
+North Carolina	US	4/11/2020 22:45	82	1	0
+Pennsylvania	US	4/11/2020 22:45	105	3	0
+Tennessee	US	4/11/2020 22:45	40	0	0
+Virginia	US	4/11/2020 22:45	8	0	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	3	0	0
+New Mexico	US	4/11/2020 22:45	9	0	0
+Oregon	US	4/11/2020 22:45	3	0	0
+Colorado	US	4/11/2020 22:45	2	0	0
+Idaho	US	4/11/2020 22:45	2	0	0
+Nebraska	US	4/11/2020 22:45	13	0	0
+Oklahoma	US	4/11/2020 22:45	5	0	0
+Ohio	US	4/11/2020 22:45	1113	22	0
+Georgia	US	4/11/2020 22:45	2	1	0
+Minnesota	US	4/11/2020 22:45	87	4	0
+Alabama	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	10	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Iowa	US	4/11/2020 22:45	37	0	0
+Missouri	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	1644	27	0
+Wisconsin	US	4/11/2020 22:45	327	12	0
+Virginia	US	4/11/2020 22:45	20	0	0
+North Carolina	US	4/11/2020 22:45	13	1	0
+Ohio	US	4/11/2020 22:45	42	8	0
+South Carolina	US	4/11/2020 22:45	37	0	0
+Pennsylvania	US	4/11/2020 22:45	213	3	0
+North Carolina	US	4/11/2020 22:45	85	2	0
+Tennessee	US	4/11/2020 22:45	1111	13	0
+North Carolina	US	4/11/2020 22:45	22	2	0
+Indiana	US	4/11/2020 22:45	9	1	0
+Kentucky	US	4/11/2020 22:45	79	2	0
+Utah	US	4/11/2020 22:45	193	2	0
+South Dakota	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	25	2	0
+Nebraska	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	7	1	0
+Louisiana	US	4/11/2020 22:45	114	7	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	21	0	0
+Georgia	US	4/11/2020 22:45	835	13	0
+Illinois	US	4/11/2020 22:45	33	1	0
+Indiana	US	4/11/2020 22:45	5	0	0
+Missouri	US	4/11/2020 22:45	3	0	0
+Tennessee	US	4/11/2020 22:45	9	0	0
+Florida	US	4/11/2020 22:45	20	3	0
+Mississippi	US	4/11/2020 22:45	163	2	0
+Texas	US	4/11/2020 22:45	9	0	0
+Texas	US	4/11/2020 22:45	7	0	0
+Indiana	US	4/11/2020 22:45	59	3	0
+Georgia	US	4/11/2020 22:45	27	0	0
+Indiana	US	4/11/2020 22:45	123	10	0
+Tennessee	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	3	0	0
+Ohio	US	4/11/2020 22:45	11	0	0
+California	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	63	2	0
+Iowa	US	4/11/2020 22:45	2	0	0
+New York	US	4/11/2020 22:45	39	2	0
+Ohio	US	4/11/2020 22:45	89	2	0
+Oklahoma	US	4/11/2020 22:45	24	0	0
+Pennsylvania	US	4/11/2020 22:45	1510	39	0
+Colorado	US	4/11/2020 22:45	6	1	0
+Michigan	US	4/11/2020 22:45	9	1	0
+Texas	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	454	10	0
+Colorado	US	4/11/2020 22:45	1113	42	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Oregon	US	4/11/2020 22:45	51	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	3	2	0
+Tennessee	US	4/11/2020 22:45	30	0	0
+South Carolina	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+District of Columbia	US	4/11/2020 22:45	1778	47	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	9	0	0
+Minnesota	US	4/11/2020 22:45	15	0	0
+Nebraska	US	4/11/2020 22:45	7	0	0
+Wisconsin	US	4/11/2020 22:45	18	0	0
+New Mexico	US	4/11/2020 22:45	44	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	23	0	0
+Georgia	US	4/11/2020 22:45	40	1	0
+Wisconsin	US	4/11/2020 22:45	9	0	0
+Maryland	US	4/11/2020 22:45	8	0	0
+South Carolina	US	4/11/2020 22:45	67	1	0
+Georgia	US	4/11/2020 22:45	1076	69	0
+Colorado	US	4/11/2020 22:45	282	10	0
+Georgia	US	4/11/2020 22:45	147	5	0
+Illinois	US	4/11/2020 22:45	11	0	0
+Kansas	US	4/11/2020 22:45	39	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	228	5	0
+Nevada	US	4/11/2020 22:45	10	0	0
+Oregon	US	4/11/2020 22:45	12	0	0
+Washington	US	4/11/2020 22:45	16	0	0
+Wisconsin	US	4/11/2020 22:45	7	0	0
+Arkansas	US	4/11/2020 22:45	6	1	0
+Illinois	US	4/11/2020 22:45	1048	46	0
+Indiana	US	4/11/2020 22:45	11	0	0
+Iowa	US	4/11/2020 22:45	32	1	0
+Utah	US	4/11/2020 22:45	3	0	0
+Massachusetts	US	4/11/2020 22:45	21	1	0
+Missouri	US	4/11/2020 22:45	13	0	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+Wisconsin	US	4/11/2020 22:45	9	0	0
+North Carolina	US	4/11/2020 22:45	15	0	0
+North Carolina	US	4/11/2020 22:45	275	1	0
+New York	US	4/11/2020 22:45	1744	11	0
+Florida	US	4/11/2020 22:45	635	11	0
+Tennessee	US	4/11/2020 22:45	18	0	0
+Colorado	US	4/11/2020 22:45	426	5	0
+Georgia	US	4/11/2020 22:45	106	6	0
+Louisiana	US	4/11/2020 22:45	1158	45	0
+Louisiana	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	67	2	0
+Texas	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	71	4	0
+Wisconsin	US	4/11/2020 22:45	21	0	0
+Georgia	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	40	1	0
+New Mexico	US	4/11/2020 22:45	6	1	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	22	1	0
+South Carolina	US	4/11/2020 22:45	10	0	0
+Kentucky	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	20	1	0
+Illinois	US	4/11/2020 22:45	3	1	0
+California	US	4/11/2020 22:45	32	0	0
+Colorado	US	4/11/2020 22:45	550	33	0
+Texas	US	4/11/2020 22:45	252	2	0
+Colorado	US	4/11/2020 22:45	13	1	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	71	3	0
+Nevada	US	4/11/2020 22:45	11	1	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	66	2	0
+Alabama	US	4/11/2020 22:45	30	0	0
+Idaho	US	4/11/2020 22:45	16	0	0
+Georgia	US	4/11/2020 22:45	7	0	0
+Utah	US	4/11/2020 22:45	2	0	0
+Michigan	US	4/11/2020 22:45	21	2	0
+North Dakota	US	4/11/2020 22:45	1	1	0
+Virginia	US	4/11/2020 22:45	7	0	0
+Texas	US	4/11/2020 22:45	13	1	0
+New York	US	4/11/2020 22:45	1506	53	0
+Ohio	US	4/11/2020 22:45	10	1	0
+Pennsylvania	US	4/11/2020 22:45	39	0	0
+Alabama	US	4/11/2020 22:45	9	0	0
+Florida	US	4/11/2020 22:45	206	3	0
+Massachusetts	US	4/11/2020 22:45	2896	91	0
+New Jersey	US	4/11/2020 22:45	7007	412	0
+New York	US	4/11/2020 22:45	12	0	0
+Vermont	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Alabama	US	4/11/2020 22:45	74	6	0
+Louisiana	US	4/11/2020 22:45	34	0	0
+Alaska	US	4/11/2020 22:45	76	1	0
+Virginia	US	4/11/2020 22:45	946	20	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Connecticut	US	4/11/2020 22:45	5407	220	0
+Ohio	US	4/11/2020 22:45	78	0	0
+South Carolina	US	4/11/2020 22:45	21	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Georgia	US	4/11/2020 22:45	9	0	0
+Texas	US	4/11/2020 22:45	5	0	0
+Minnesota	US	4/11/2020 22:45	4	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	57	1	0
+Virginia	US	4/11/2020 22:45	25	0	0
+Alabama	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	94	4	0
+Illinois	US	4/11/2020 22:45	9	0	0
+Indiana	US	4/11/2020 22:45	20	3	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Kentucky	US	4/11/2020 22:45	148	8	0
+Ohio	US	4/11/2020 22:45	7	0	0
+Pennsylvania	US	4/11/2020 22:45	50	3	0
+Tennessee	US	4/11/2020 22:45	30	0	0
+Texas	US	4/11/2020 22:45	9	0	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Washington	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	10	0	0
+Kansas	US	4/11/2020 22:45	15	0	0
+Florida	US	4/11/2020 22:45	44	1	0
+Montana	US	4/11/2020 22:45	34	0	0
+South Carolina	US	4/11/2020 22:45	66	7	0
+Wisconsin	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	105	5	0
+Indiana	US	4/11/2020 22:45	105	4	0
+Texas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	19	0	0
+Wisconsin	US	4/11/2020 22:45	52	2	0
+Illinois	US	4/11/2020 22:45	4	1	0
+Kansas	US	4/11/2020 22:45	5	0	0
+Pennsylvania	US	4/11/2020 22:45	5	0	0
+Mississippi	US	4/11/2020 22:45	86	2	0
+Georgia	US	4/11/2020 22:45	121	4	0
+North Carolina	US	4/11/2020 22:45	115	4	0
+Texas	US	4/11/2020 22:45	518	11	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	3	1	0
+Alabama	US	4/11/2020 22:45	8	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	4	0	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Indiana	US	4/11/2020 22:45	67	7	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	12	0	0
+Kentucky	US	4/11/2020 22:45	10	0	0
+Louisiana	US	4/11/2020 22:45	47	1	0
+Maine	US	4/11/2020 22:45	7	0	0
+Massachusetts	US	4/11/2020 22:45	138	23	0
+Mississippi	US	4/11/2020 22:45	10	0	0
+Missouri	US	4/11/2020 22:45	83	3	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+New York	US	4/11/2020 22:45	11	0	0
+North Carolina	US	4/11/2020 22:45	27	0	0
+Ohio	US	4/11/2020 22:45	894	14	0
+Pennsylvania	US	4/11/2020 22:45	59	0	0
+Tennessee	US	4/11/2020 22:45	22	1	0
+Texas	US	4/11/2020 22:45	1	0	0
+Vermont	US	4/11/2020 22:45	80	3	0
+Virginia	US	4/11/2020 22:45	14	0	0
+Washington	US	4/11/2020 22:45	107	2	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Maryland	US	4/11/2020 22:45	341	11	0
+Virginia	US	4/11/2020 22:45	63	0	0
+Virginia	US	4/11/2020 22:45	11	0	0
+Minnesota	US	4/11/2020 22:45	22	0	0
+Colorado	US	4/11/2020 22:45	5	0	0
+Idaho	US	4/11/2020 22:45	2	0	0
+Wyoming	US	4/11/2020 22:45	39	0	0
+California	US	4/11/2020 22:45	191	5	0
+Texas	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	1422	50	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	3	0	0
+New York	US	4/11/2020 22:45	21	0	0
+Ohio	US	4/11/2020 22:45	6	0	0
+Pennsylvania	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	14	0	0
+Nebraska	US	4/11/2020 22:45	25	1	0
+Texas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	135	0	0
+Ohio	US	4/11/2020 22:45	4	1	0
+Texas	US	4/11/2020 22:45	341	8	0
+Colorado	US	4/11/2020 22:45	52	2	0
+Oklahoma	US	4/11/2020 22:45	6	1	0
+Utah	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	72	0	0
+Maryland	US	4/11/2020 22:45	4	0	0
+Oklahoma	US	4/11/2020 22:45	10	0	0
+Missouri	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	80	3	0
+North Carolina	US	4/11/2020 22:45	4	0	0
+Kansas	US	4/11/2020 22:45	5	0	0
+Ohio	US	4/11/2020 22:45	53	2	0
+Idaho	US	4/11/2020 22:45	9	0	0
+Michigan	US	4/11/2020 22:45	919	62	0
+New York	US	4/11/2020 22:45	67	1	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	7	0	0
+South Carolina	US	4/11/2020 22:45	32	1	0
+Indiana	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	19	0	0
+Arizona	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Colorado	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	4	1	0
+Michigan	US	4/11/2020 22:45	4	0	0
+California	US	4/11/2020 22:45	3	0	0
+New Jersey	US	4/11/2020 22:45	487	9	0
+Virginia	US	4/11/2020 22:45	20	0	0
+Georgia	US	4/11/2020 22:45	33	0	0
+Michigan	US	4/11/2020 22:45	4	1	0
+Montana	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	4	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	26	0	0
+Minnesota	US	4/11/2020 22:45	16	0	0
+Idaho	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	29	3	0
+Wyoming	US	4/11/2020 22:45	3	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	15	0	0
+Oklahoma	US	4/11/2020 22:45	11	0	0
+New Hampshire	US	4/11/2020 22:45	43	0	0
+Arizona	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Colorado	US	4/11/2020 22:45	4	0	0
+Utah	US	4/11/2020 22:45	1	0	0
+North Dakota	US	4/11/2020 22:45	11	0	0
+Vermont	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	17	3	0
+Arkansas	US	4/11/2020 22:45	9	0	0
+Indiana	US	4/11/2020 22:45	35	2	0
+Kentucky	US	4/11/2020 22:45	3	1	0
+Louisiana	US	4/11/2020 22:45	11	0	0
+New Mexico	US	4/11/2020 22:45	7	0	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	2	0	0
+Oregon	US	4/11/2020 22:45	1	0	0
+Washington	US	4/11/2020 22:45	110	2	0
+Wisconsin	US	4/11/2020 22:45	5	1	0
+North Carolina	US	4/11/2020 22:45	89	0	0
+Michigan	US	4/11/2020 22:45	7	0	0
+Kentucky	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	13	0	0
+Washington	US	4/11/2020 22:45	8	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	17	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	9	0	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+Alabama	US	4/11/2020 22:45	14	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Georgia	US	4/11/2020 22:45	25	1	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	14	1	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	2	0	0
+Missouri	US	4/11/2020 22:45	77	8	0
+New York	US	4/11/2020 22:45	37	0	0
+North Carolina	US	4/11/2020 22:45	10	0	0
+Ohio	US	4/11/2020 22:45	24	1	0
+Pennsylvania	US	4/11/2020 22:45	23	0	0
+Tennessee	US	4/11/2020 22:45	26	1	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Arizona	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	8	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+South Carolina	US	4/11/2020 22:45	325	7	0
+Kansas	US	4/11/2020 22:45	1	0	0
+South Carolina	US	4/11/2020 22:45	17	0	0
+Oklahoma	US	4/11/2020 22:45	48	4	0
+Texas	US	4/11/2020 22:45	40	0	0
+Mississippi	US	4/11/2020 22:45	10	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+Illinois	US	4/11/2020 22:45	17	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	21	0	0
+Texas	US	4/11/2020 22:45	47	0	0
+Ohio	US	4/11/2020 22:45	5	0	0
+North Carolina	US	4/11/2020 22:45	134	9	0
+Florida	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	101	1	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	675	18	0
+Georgia	US	4/11/2020 22:45	14	1	0
+Alabama	US	4/11/2020 22:45	11	0	0
+Texas	US	4/11/2020 22:45	11	2	0
+North Carolina	US	4/11/2020 22:45	21	0	0
+Virginia	US	4/11/2020 22:45	7	0	0
+Georgia	US	4/11/2020 22:45	275	0	0
+Nebraska	US	4/11/2020 22:45	129	4	0
+Tennessee	US	4/11/2020 22:45	4	1	0
+Florida	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	443	22	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	10	0	0
+New York	US	4/11/2020 22:45	3	0	0
+Ohio	US	4/11/2020 22:45	529	17	0
+Tennessee	US	4/11/2020 22:45	105	10	0
+Texas	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Massachusetts	US	4/11/2020 22:45	1545	92	0
+Massachusetts	US	4/11/2020 22:45	204	5	0
+West Virginia	US	4/11/2020 22:45	4	0	0
+South Carolina	US	4/11/2020 22:45	6	0	0
+Virginia	US	4/11/2020 22:45	64	1	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	112	6	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+Maine	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	38	5	0
+Ohio	US	4/11/2020 22:45	20	1	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+West Virginia	US	4/11/2020 22:45	7	0	0
+Virginia	US	4/11/2020 22:45	38	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	15	0	0
+Florida	US	4/11/2020 22:45	3	0	0
+Tennessee	US	4/11/2020 22:45	7	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	9	0	0
+Ohio	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	47	2	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Maryland	US	4/11/2020 22:45	120	1	0
+North Carolina	US	4/11/2020 22:45	38	2	0
+Georgia	US	4/11/2020 22:45	19	1	0
+Texas	US	4/11/2020 22:45	3561	41	0
+Indiana	US	4/11/2020 22:45	54	2	0
+Iowa	US	4/11/2020 22:45	12	0	0
+Kentucky	US	4/11/2020 22:45	14	0	0
+Mississippi	US	4/11/2020 22:45	107	5	0
+Missouri	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	14	1	0
+West Virginia	US	4/11/2020 22:45	28	1	0
+Virginia	US	4/11/2020 22:45	79	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Connecticut	US	4/11/2020 22:45	1832	101	0
+Kansas	US	4/11/2020 22:45	4	0	0
+Hawaii	US	4/11/2020 22:45	31	0	0
+Tennessee	US	4/11/2020 22:45	22	2	0
+Texas	US	4/11/2020 22:45	82	0	0
+North Carolina	US	4/11/2020 22:45	3	0	0
+Tennessee	US	4/11/2020 22:45	13	1	0
+Georgia	US	4/11/2020 22:45	3	1	0
+Texas	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	4	1	0
+Kentucky	US	4/11/2020 22:45	23	0	0
+North Carolina	US	4/11/2020 22:45	68	5	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	10	0	0
+Indiana	US	4/11/2020 22:45	301	9	0
+Florida	US	4/11/2020 22:45	16	0	0
+Minnesota	US	4/11/2020 22:45	464	30	0
+Virginia	US	4/11/2020 22:45	368	2	0
+Alabama	US	4/11/2020 22:45	10	0	0
+Georgia	US	4/11/2020 22:45	249	3	0
+Illinois	US	4/11/2020 22:45	22	0	0
+Indiana	US	4/11/2020 22:45	22	0	0
+Iowa	US	4/11/2020 22:45	19	1	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	4	1	0
+Ohio	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	6	0	0
+Virginia	US	4/11/2020 22:45	8	0	0
+New York	US	4/11/2020 22:45	37	3	0
+Florida	US	4/11/2020 22:45	65	2	0
+North Carolina	US	4/11/2020 22:45	4	1	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	181	1	0
+Ohio	US	4/11/2020 22:45	6	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Florida	US	4/11/2020 22:45	51	4	0
+Montana	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	8	0	0
+Florida	US	4/11/2020 22:45	690	14	0
+New Hampshire	US	4/11/2020 22:45	344	2	0
+Michigan	US	4/11/2020 22:45	75	6	0
+Mississippi	US	4/11/2020 22:45	234	2	0
+Colorado	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	13	1	0
+North Carolina	US	4/11/2020 22:45	18	0	0
+Florida	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	42	3	0
+Ohio	US	4/11/2020 22:45	3	0	0
+Hawaii	US	4/11/2020 22:45	343	5	0
+Texas	US	4/11/2020 22:45	13	1	0
+Oregon	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	14	0	0
+Kentucky	US	4/11/2020 22:45	57	4	0
+Texas	US	4/11/2020 22:45	4	0	0
+South Carolina	US	4/11/2020 22:45	132	7	0
+Arkansas	US	4/11/2020 22:45	8	0	0
+Wyoming	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	37	1	0
+Georgia	US	4/11/2020 22:45	113	7	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Indiana	US	4/11/2020 22:45	46	4	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Maryland	US	4/11/2020 22:45	351	6	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	1	1	0
+Missouri	US	4/11/2020 22:45	4	0	0
+New Jersey	US	4/11/2020 22:45	6851	183	0
+Colorado	US	4/11/2020 22:45	1	0	0
+South Dakota	US	4/11/2020 22:45	4	0	0
+California	US	4/11/2020 22:45	50	0	0
+Nevada	US	4/11/2020 22:45	18	0	0
+Mississippi	US	4/11/2020 22:45	9	1	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Texas	US	4/11/2020 22:45	16	0	0
+New Jersey	US	4/11/2020 22:45	301	11	0
+Pennsylvania	US	4/11/2020 22:45	10	0	0
+Indiana	US	4/11/2020 22:45	6	1	0
+Michigan	US	4/11/2020 22:45	5	0	0
+Ohio	US	4/11/2020 22:45	15	1	0
+South Dakota	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Louisiana	US	4/11/2020 22:45	128	5	0
+Louisiana	US	4/11/2020 22:45	214	12	0
+Idaho	US	4/11/2020 22:45	3	0	0
+California	US	4/11/2020 22:45	79	3	0
+Arkansas	US	4/11/2020 22:45	5	0	0
+Florida	US	4/11/2020 22:45	70	1	0
+Pennsylvania	US	4/11/2020 22:45	40	0	0
+Michigan	US	4/11/2020 22:45	241	3	0
+California	US	4/11/2020 22:45	12	0	0
+Michigan	US	4/11/2020 22:45	14	2	0
+Michigan	US	4/11/2020 22:45	5	1	0
+Iowa	US	4/11/2020 22:45	7	0	0
+Wisconsin	US	4/11/2020 22:45	4	0	0
+North Carolina	US	4/11/2020 22:45	71	1	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Utah	US	4/11/2020 22:45	13	0	0
+Wisconsin	US	4/11/2020 22:45	2	1	0
+Illinois	US	4/11/2020 22:45	8	0	0
+Georgia	US	4/11/2020 22:45	11	0	0
+Michigan	US	4/11/2020 22:45	38	3	0
+Minnesota	US	4/11/2020 22:45	4	0	0
+Washington	US	4/11/2020 22:45	157	7	0
+Virginia	US	4/11/2020 22:45	28	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	9	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	22	2	0
+Florida	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	26	1	0
+Illinois	US	4/11/2020 22:45	30	2	0
+Indiana	US	4/11/2020 22:45	64	0	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	8	0	0
+Michigan	US	4/11/2020 22:45	152	4	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	139	5	0
+Missouri	US	4/11/2020 22:45	217	7	0
+North Carolina	US	4/11/2020 22:45	2	0	0
+Ohio	US	4/11/2020 22:45	2	0	0
+Oklahoma	US	4/11/2020 22:45	7	0	0
+Oregon	US	4/11/2020 22:45	44	0	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	4	0	0
+West Virginia	US	4/11/2020 22:45	23	1	0
+Wisconsin	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	126	2	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Indiana	US	4/11/2020 22:45	16	1	0
+Iowa	US	4/11/2020 22:45	10	0	0
+Mississippi	US	4/11/2020 22:45	12	0	0
+Missouri	US	4/11/2020 22:45	22	0	0
+South Carolina	US	4/11/2020 22:45	12	0	0
+Texas	US	4/11/2020 22:45	7	1	0
+Indiana	US	4/11/2020 22:45	4	0	0
+Georgia	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	579	15	0
+Arkansas	US	4/11/2020 22:45	91	2	0
+Colorado	US	4/11/2020 22:45	683	25	0
+Florida	US	4/11/2020 22:45	9	0	0
+Georgia	US	4/11/2020 22:45	6	1	0
+Idaho	US	4/11/2020 22:45	4	0	0
+Illinois	US	4/11/2020 22:45	6	0	0
+Indiana	US	4/11/2020 22:45	13	0	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Kansas	US	4/11/2020 22:45	5	0	0
+Kentucky	US	4/11/2020 22:45	380	26	0
+Louisiana	US	4/11/2020 22:45	4877	166	0
+Mississippi	US	4/11/2020 22:45	4	0	0
+Missouri	US	4/11/2020 22:45	117	3	0
+Montana	US	4/11/2020 22:45	2	0	0
+New York	US	4/11/2020 22:45	44	0	0
+Ohio	US	4/11/2020 22:45	23	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	14	0	0
+Texas	US	4/11/2020 22:45	100	5	0
+Washington	US	4/11/2020 22:45	28	0	0
+West Virginia	US	4/11/2020 22:45	46	0	0
+Wisconsin	US	4/11/2020 22:45	22	0	0
+Louisiana	US	4/11/2020 22:45	35	7	0
+Mississippi	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	9	1	0
+Indiana	US	4/11/2020 22:45	54	0	0
+South Dakota	US	4/11/2020 22:45	3	0	0
+Idaho	US	4/11/2020 22:45	28	2	0
+Illinois	US	4/11/2020 22:45	6	0	0
+Kentucky	US	4/11/2020 22:45	18	0	0
+Kansas	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Illinois	US	4/11/2020 22:45	10	0	0
+Arkansas	US	4/11/2020 22:45	13	0	0
+Georgia	US	4/11/2020 22:45	15	1	0
+Indiana	US	4/11/2020 22:45	287	19	0
+Iowa	US	4/11/2020 22:45	194	1	0
+Kansas	US	4/11/2020 22:45	283	12	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	41	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	28	1	0
+Wyoming	US	4/11/2020 22:45	10	0	0
+North Carolina	US	4/11/2020 22:45	92	5	0
+Georgia	US	4/11/2020 22:45	11	0	0
+Iowa	US	4/11/2020 22:45	8	0	0
+Mississippi	US	4/11/2020 22:45	30	0	0
+North Carolina	US	4/11/2020 22:45	6	1	0
+Texas	US	4/11/2020 22:45	2	0	0
+Oregon	US	4/11/2020 22:45	17	0	0
+Alaska	US	4/11/2020 22:45	15	0	0
+Wisconsin	US	4/11/2020 22:45	5	0	0
+Pennsylvania	US	4/11/2020 22:45	38	0	0
+Michigan	US	4/11/2020 22:45	79	7	0
+Michigan	US	4/11/2020 22:45	13	2	0
+West Virginia	US	4/11/2020 22:45	82	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Illinois	US	4/11/2020 22:45	376	22	0
+Utah	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	185	9	0
+Missouri	US	4/11/2020 22:45	300	8	0
+Texas	US	4/11/2020 22:45	2	0	0
+Hawaii	US	4/11/2020 22:45	19	0	0
+Texas	US	4/11/2020 22:45	26	0	0
+Oklahoma	US	4/11/2020 22:45	42	3	0
+Nebraska	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	14	0	0
+Alaska	US	4/11/2020 22:45	15	0	0
+Illinois	US	4/11/2020 22:45	103	2	0
+Texas	US	4/11/2020 22:45	10	0	0
+Maine	US	4/11/2020 22:45	31	1	0
+Wisconsin	US	4/11/2020 22:45	163	1	0
+Delaware	US	4/11/2020 22:45	255	4	0
+Maryland	US	4/11/2020 22:45	10	0	0
+Michigan	US	4/11/2020 22:45	270	13	0
+Rhode Island	US	4/11/2020 22:45	169	0	0
+Kentucky	US	4/11/2020 22:45	54	8	0
+Iowa	US	4/11/2020 22:45	2	0	0
+California	US	4/11/2020 22:45	371	3	0
+Texas	US	4/11/2020 22:45	2	0	0
+South Carolina	US	4/11/2020 22:45	178	4	0
+Alaska	US	4/11/2020 22:45	14	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	9	0	0
+Washington	US	4/11/2020 22:45	4262	284	0
+Virginia	US	4/11/2020 22:45	13	0	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Oklahoma	US	4/11/2020 22:45	5	0	0
+California	US	4/11/2020 22:45	9	0	0
+South Dakota	US	4/11/2020 22:45	0	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	6	0	0
+Washington	US	4/11/2020 22:45	128	1	0
+Washington	US	4/11/2020 22:45	15	1	0
+Oregon	US	4/11/2020 22:45	24	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Washington	US	4/11/2020 22:45	12	1	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	13	0	0
+Maine	US	4/11/2020 22:45	10	0	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+Ohio	US	4/11/2020 22:45	9	1	0
+Tennessee	US	4/11/2020 22:45	169	3	0
+Texas	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Idaho	US	4/11/2020 22:45	44	0	0
+Indiana	US	4/11/2020 22:45	17	1	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	25	0	0
+Arizona	US	4/11/2020 22:45	4	0	0
+Colorado	US	4/11/2020 22:45	44	0	0
+Indiana	US	4/11/2020 22:45	10	1	0
+Indiana	US	4/11/2020 22:45	31	3	0
+Illinois	US	4/11/2020 22:45	18	1	0
+Louisiana	US	4/11/2020 22:45	10	0	0
+Kansas	US	4/11/2020 22:45	18	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	392	20	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Florida	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	337	12	0
+Mississippi	US	4/11/2020 22:45	29	1	0
+Missouri	US	4/11/2020 22:45	28	1	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	454	13	0
+California	US	4/11/2020 22:45	4	0	0
+Colorado	US	4/11/2020 22:45	4	0	0
+Florida	US	4/11/2020 22:45	149	4	0
+Illinois	US	4/11/2020 22:45	1331	39	0
+Indiana	US	4/11/2020 22:45	676	25	0
+Michigan	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	5	0	0
+Ohio	US	4/11/2020 22:45	112	6	0
+South Dakota	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+Alabama	US	4/11/2020 22:45	7	0	0
+Georgia	US	4/11/2020 22:45	15	0	0
+Mississippi	US	4/11/2020 22:45	31	1	0
+Texas	US	4/11/2020 22:45	8	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Vermont	US	4/11/2020 22:45	21	2	0
+Texas	US	4/11/2020 22:45	2	0	0
+Nebraska	US	4/11/2020 22:45	50	1	0
+Pennsylvania	US	4/11/2020 22:45	698	23	0
+South Carolina	US	4/11/2020 22:45	62	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Oregon	US	4/11/2020 22:45	34	1	0
+Georgia	US	4/11/2020 22:45	5	0	0
+Michigan	US	4/11/2020 22:45	95	6	0
+Wyoming	US	4/11/2020 22:45	58	0	0
+Colorado	US	4/11/2020 22:45	177	9	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Colorado	US	4/11/2020 22:45	2	0	0
+Idaho	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	4	1	0
+Alabama	US	4/11/2020 22:45	21	4	0
+Mississippi	US	4/11/2020 22:45	133	8	0
+Tennessee	US	4/11/2020 22:45	8	0	0
+Kentucky	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	28	1	0
+South Carolina	US	4/11/2020 22:45	13	1	0
+Texas	US	4/11/2020 22:45	4	0	0
+Alabama	US	4/11/2020 22:45	8	0	0
+Arkansas	US	4/11/2020 22:45	10	1	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	63	7	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	6	0	0
+Ohio	US	4/11/2020 22:45	15	0	0
+Pennsylvania	US	4/11/2020 22:45	46	4	0
+South Dakota	US	4/11/2020 22:45	9	0	0
+Tennessee	US	4/11/2020 22:45	12	0	0
+Oklahoma	US	4/11/2020 22:45	3	0	0
+Minnesota	US	4/11/2020 22:45	20	0	0
+New Mexico	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	27	0	0
+Kansas	US	4/11/2020 22:45	75	1	0
+Pennsylvania	US	4/11/2020 22:45	232	1	0
+Alabama	US	4/11/2020 22:45	218	8	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Florida	US	4/11/2020 22:45	584	16	0
+Georgia	US	4/11/2020 22:45	234	15	0
+Illinois	US	4/11/2020 22:45	12	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	42	3	0
+North Carolina	US	4/11/2020 22:45	8	0	0
+South Carolina	US	4/11/2020 22:45	27	3	0
+Texas	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	44	4	0
+Pennsylvania	US	4/11/2020 22:45	1620	16	0
+Michigan	US	4/11/2020 22:45	43	0	0
+North Carolina	US	4/11/2020 22:45	14	0	0
+Florida	US	4/11/2020 22:45	112	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	6	0	0
+Idaho	US	4/11/2020 22:45	0	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+New York	US	4/11/2020 22:45	6	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+Washington	US	4/11/2020 22:45	18	2	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Montana	US	4/11/2020 22:45	16	0	0
+South Carolina	US	4/11/2020 22:45	202	6	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	16	0	0
+Montana	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	17	0	0
+Ohio	US	4/11/2020 22:45	80	3	0
+Alabama	US	4/11/2020 22:45	36	0	0
+Texas	US	4/11/2020 22:45	11	1	0
+Arkansas	US	4/11/2020 22:45	10	0	0
+Colorado	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	8	0	0
+Idaho	US	4/11/2020 22:45	14	0	0
+Louisiana	US	4/11/2020 22:45	37	0	0
+Maine	US	4/11/2020 22:45	9	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	41	3	0
+Missouri	US	4/11/2020 22:45	26	1	0
+Montana	US	4/11/2020 22:45	7	1	0
+Nebraska	US	4/11/2020 22:45	17	1	0
+Nevada	US	4/11/2020 22:45	1	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	15	0	0
+Oklahoma	US	4/11/2020 22:45	11	0	0
+Oregon	US	4/11/2020 22:45	4	0	0
+South Dakota	US	4/11/2020 22:45	39	0	0
+Tennessee	US	4/11/2020 22:45	8	0	0
+Washington	US	4/11/2020 22:45	2	0	0
+Wyoming	US	4/11/2020 22:45	5	0	0
+Iowa	US	4/11/2020 22:45	235	10	0
+Kansas	US	4/11/2020 22:45	5	0	0
+Missouri	US	4/11/2020 22:45	3	0	0
+Oregon	US	4/11/2020 22:45	49	4	0
+Connecticut	US	4/11/2020 22:45	388	20	0
+Texas	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	15	0	0
+Louisiana	US	4/11/2020 22:45	109	1	0
+Michigan	US	4/11/2020 22:45	206	3	0
+Missouri	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	30	2	0
+Texas	US	4/11/2020 22:45	3	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Colorado	US	4/11/2020 22:45	13	0	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	5	0	0
+Nebraska	US	4/11/2020 22:45	0	0	0
+Ohio	US	4/11/2020 22:45	7	0	0
+Oklahoma	US	4/11/2020 22:45	7	0	0
+West Virginia	US	4/11/2020 22:45	8	0	0
+Georgia	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	27	0	0
+Ohio	US	4/11/2020 22:45	161	5	0
+New Mexico	US	4/11/2020 22:45	4	0	0
+California	US	4/11/2020 22:45	8453	244	0
+Tennessee	US	4/11/2020 22:45	16	0	0
+Virginia	US	4/11/2020 22:45	296	5	0
+Iowa	US	4/11/2020 22:45	70	0	0
+Virginia	US	4/11/2020 22:45	25	0	0
+Oklahoma	US	4/11/2020 22:45	2	0	0
+Alabama	US	4/11/2020 22:45	14	0	0
+Georgia	US	4/11/2020 22:45	59	2	0
+Mississippi	US	4/11/2020 22:45	22	0	0
+Texas	US	4/11/2020 22:45	249	13	0
+Ohio	US	4/11/2020 22:45	490	21	0
+Michigan	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	9	0	0
+New Mexico	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	1372	17	0
+Pennsylvania	US	4/11/2020 22:45	20	0	0
+South Dakota	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	31	0	0
+Texas	US	4/11/2020 22:45	5	0	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kansas	US	4/11/2020 22:45	27	0	0
+Kentucky	US	4/11/2020 22:45	6	0	0
+Minnesota	US	4/11/2020 22:45	5	0	0
+Nevada	US	4/11/2020 22:45	6	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+Michigan	US	4/11/2020 22:45	3164	209	0
+Alabama	US	4/11/2020 22:45	11	1	0
+Georgia	US	4/11/2020 22:45	19	0	0
+Illinois	US	4/11/2020 22:45	23	1	0
+Missouri	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	2	1	0
+Tennessee	US	4/11/2020 22:45	23	2	0
+Illinois	US	4/11/2020 22:45	14	0	0
+California	US	4/11/2020 22:45	32	2	0
+Alabama	US	4/11/2020 22:45	186	3	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	14	0	0
+Georgia	US	4/11/2020 22:45	10	1	0
+Idaho	US	4/11/2020 22:45	5	0	0
+Illinois	US	4/11/2020 22:45	103	2	0
+Indiana	US	4/11/2020 22:45	235	13	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	14	1	0
+Louisiana	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	99	2	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	8	1	0
+Nebraska	US	4/11/2020 22:45	6	2	0
+New York	US	4/11/2020 22:45	102	3	0
+Ohio	US	4/11/2020 22:45	23	3	0
+Tennessee	US	4/11/2020 22:45	56	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	375	31	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Oregon	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	34	0	0
+Virginia	US	4/11/2020 22:45	10	0	0
+Florida	US	4/11/2020 22:45	203	13	0
+Michigan	US	4/11/2020 22:45	9	0	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Wisconsin	US	4/11/2020 22:45	13	0	0
+Alabama	US	4/11/2020 22:45	19	1	0
+Arizona	US	4/11/2020 22:45	1891	47	0
+Missouri	US	4/11/2020 22:45	2	0	0
+California	US	4/11/2020 22:45	154	10	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Alabama	US	4/11/2020 22:45	42	3	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	83	2	0
+Georgia	US	4/11/2020 22:45	10	0	0
+Illinois	US	4/11/2020 22:45	13	0	0
+Indiana	US	4/11/2020 22:45	2742	118	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	17	0	0
+Ohio	US	4/11/2020 22:45	49	0	0
+Oregon	US	4/11/2020 22:45	246	9	0
+South Carolina	US	4/11/2020 22:45	6	1	0
+Tennessee	US	4/11/2020 22:45	24	1	0
+West Virginia	US	4/11/2020 22:45	32	1	0
+South Carolina	US	4/11/2020 22:45	13	0	0
+Michigan	US	4/11/2020 22:45	21	2	0
+Wisconsin	US	4/11/2020 22:45	2	0	0
+Alabama	US	4/11/2020 22:45	82	2	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	14	0	0
+Iowa	US	4/11/2020 22:45	28	0	0
+Kentucky	US	4/11/2020 22:45	8	0	0
+Mississippi	US	4/11/2020 22:45	30	2	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	9	1	0
+West Virginia	US	4/11/2020 22:45	6	0	0
+Florida	US	4/11/2020 22:45	115	3	0
+Indiana	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	37	4	0
+North Carolina	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Washington	US	4/11/2020 22:45	18	0	0
+West Virginia	US	4/11/2020 22:45	7	0	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	49	3	0
+Alaska	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	2	0	0
+Hawaii	US	4/11/2020 22:45	66	3	0
+Tennessee	US	4/11/2020 22:45	32	0	0
+Texas	US	4/11/2020 22:45	9	0	0
+Oklahoma	US	4/11/2020 22:45	13	2	0
+Oklahoma	US	4/11/2020 22:45	18	0	0
+South Dakota	US	4/11/2020 22:45	2	1	0
+South Carolina	US	4/11/2020 22:45	3	1	0
+Kentucky	US	4/11/2020 22:45	16	1	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	2	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	16	0	0
+West Virginia	US	4/11/2020 22:45	4	0	0
+Georgia	US	4/11/2020 22:45	20	2	0
+Illinois	US	4/11/2020 22:45	220	6	0
+North Dakota	US	4/11/2020 22:45	1	1	0
+Georgia	US	4/11/2020 22:45	3	0	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	2	0	0
+North Dakota	US	4/11/2020 22:45	6	0	0
+New Mexico	US	4/11/2020 22:45	113	2	0
+Illinois	US	4/11/2020 22:45	75	2	0
+Kentucky	US	4/11/2020 22:45	5	1	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	68	2	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	9	0	0
+Kansas	US	4/11/2020 22:45	13	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	935	12	0
+Virginia	US	4/11/2020 22:45	53	0	0
+Michigan	US	4/11/2020 22:45	11	1	0
+Ohio	US	4/11/2020 22:45	107	7	0
+Texas	US	4/11/2020 22:45	12	1	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Ohio	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	2	0	0
+California	US	4/11/2020 22:45	4	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+California	US	4/11/2020 22:45	59	3	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	4	0	0
+New Jersey	US	4/11/2020 22:45	1434	49	0
+North Dakota	US	4/11/2020 22:45	0	0	0
+Ohio	US	4/11/2020 22:45	12	1	0
+Pennsylvania	US	4/11/2020 22:45	38	0	0
+West Virginia	US	4/11/2020 22:45	8	0	0
+Georgia	US	4/11/2020 22:45	22	0	0
+Nebraska	US	4/11/2020 22:45	2	0	0
+New Hampshire	US	4/11/2020 22:45	66	0	0
+Colorado	US	4/11/2020 22:45	34	0	0
+Indiana	US	4/11/2020 22:45	15	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Ohio	US	4/11/2020 22:45	116	15	0
+Florida	US	4/11/2020 22:45	6487	91	0
+Connecticut	US	4/11/2020 22:45	290	18	0
+Massachusetts	US	4/11/2020 22:45	4872	137	0
+New Jersey	US	4/11/2020 22:45	5406	177	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	30	1	0
+Texas	US	4/11/2020 22:45	31	1	0
+Pennsylvania	US	4/11/2020 22:45	10	0	0
+Texas	US	4/11/2020 22:45	7	0	0
+Arkansas	US	4/11/2020 22:45	22	0	0
+Georgia	US	4/11/2020 22:45	10	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	1653	85	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	2	0	0
+West Virginia	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	4	0	0
+South Dakota	US	4/11/2020 22:45	438	2	0
+Michigan	US	4/11/2020 22:45	1	1	0
+Arkansas	US	4/11/2020 22:45	7	0	0
+Montana	US	4/11/2020 22:45	29	1	0
+Georgia	US	4/11/2020 22:45	135	13	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kansas	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	4	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Alabama	US	4/11/2020 22:45	408	15	0
+Colorado	US	4/11/2020 22:45	3	0	0
+Arizona	US	4/11/2020 22:45	30	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+New Jersey	US	4/11/2020 22:45	3651	115	0
+California	US	4/11/2020 22:45	21	1	0
+Iowa	US	4/11/2020 22:45	6	0	0
+West Virginia	US	4/11/2020 22:45	78	1	0
+Alabama	US	4/11/2020 22:45	6	1	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Florida	US	4/11/2020 22:45	58	3	0
+Georgia	US	4/11/2020 22:45	12	1	0
+Illinois	US	4/11/2020 22:45	43	1	0
+Indiana	US	4/11/2020 22:45	75	0	0
+Kentucky	US	4/11/2020 22:45	2	0	0
+Michigan	US	4/11/2020 22:45	183	5	0
+Mississippi	US	4/11/2020 22:45	31	2	0
+New York	US	4/11/2020 22:45	767	40	0
+Ohio	US	4/11/2020 22:45	2	0	0
+Pennsylvania	US	4/11/2020 22:45	774	22	0
+Tennessee	US	4/11/2020 22:45	8	0	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+Wisconsin	US	4/11/2020 22:45	8	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Michigan	US	4/11/2020 22:45	21	1	0
+California	US	4/11/2020 22:45	79	3	0
+Colorado	US	4/11/2020 22:45	12	1	0
+Alabama	US	4/11/2020 22:45	102	4	0
+Illinois	US	4/11/2020 22:45	8	1	0
+Indiana	US	4/11/2020 22:45	21	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	14	0	0
+Kentucky	US	4/11/2020 22:45	7	0	0
+Maryland	US	4/11/2020 22:45	1537	36	0
+Mississippi	US	4/11/2020 22:45	14	1	0
+Missouri	US	4/11/2020 22:45	6	0	0
+New York	US	4/11/2020 22:45	29	1	0
+North Carolina	US	4/11/2020 22:45	13	1	0
+Ohio	US	4/11/2020 22:45	175	5	0
+Pennsylvania	US	4/11/2020 22:45	2053	60	0
+Tennessee	US	4/11/2020 22:45	88	2	0
+Texas	US	4/11/2020 22:45	251	5	0
+Virginia	US	4/11/2020 22:45	31	0	0
+Pennsylvania	US	4/11/2020 22:45	37	0	0
+Colorado	US	4/11/2020 22:45	38	3	0
+North Carolina	US	4/11/2020 22:45	84	2	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+Texas	US	4/11/2020 22:45	21	0	0
+Louisiana	US	4/11/2020 22:45	31	2	0
+Alabama	US	4/11/2020 22:45	37	0	0
+Colorado	US	4/11/2020 22:45	51	0	0
+Georgia	US	4/11/2020 22:45	14	0	0
+Illinois	US	4/11/2020 22:45	10	1	0
+Indiana	US	4/11/2020 22:45	94	3	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+West Virginia	US	4/11/2020 22:45	6	0	0
+Kansas	US	4/11/2020 22:45	2	0	0
+New Jersey	US	4/11/2020 22:45	2925	152	0
+Texas	US	4/11/2020 22:45	3	0	0
+Ohio	US	4/11/2020 22:45	8	0	0
+Oregon	US	4/11/2020 22:45	5	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+North Dakota	US	4/11/2020 22:45	19	1	0
+Illinois	US	4/11/2020 22:45	3	0	0
+North Dakota	US	4/11/2020 22:45	21	0	0
+Minnesota	US	4/11/2020 22:45	23	0	0
+Kentucky	US	4/11/2020 22:45	26	0	0
+Oregon	US	4/11/2020 22:45	317	17	0
+Georgia	US	4/11/2020 22:45	14	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Iowa	US	4/11/2020 22:45	91	1	0
+Georgia	US	4/11/2020 22:45	144	4	0
+Michigan	US	4/11/2020 22:45	57	4	0
+Ohio	US	4/11/2020 22:45	8	0	0
+Oklahoma	US	4/11/2020 22:45	21	2	0
+Montana	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	31	3	0
+California	US	4/11/2020 22:45	32	2	0
+North Carolina	US	4/11/2020 22:45	32	1	0
+Florida	US	4/11/2020 22:45	33	0	0
+New York	US	4/11/2020 22:45	22584	792	0
+Louisiana	US	4/11/2020 22:45	33	0	0
+Wyoming	US	4/11/2020 22:45	32	0	0
+Arizona	US	4/11/2020 22:45	321	1	0
+Texas	US	4/11/2020 22:45	12	2	0
+Kentucky	US	4/11/2020 22:45	7	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	2	0	0
+Mississippi	US	4/11/2020 22:45	26	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+California	US	4/11/2020 22:45	34	1	0
+Delaware	US	4/11/2020 22:45	807	19	0
+North Carolina	US	4/11/2020 22:45	55	0	0
+Connecticut	US	4/11/2020 22:45	2715	107	0
+Virginia	US	4/11/2020 22:45	12	0	0
+Connecticut	US	4/11/2020 22:45	185	7	0
+Missouri	US	4/11/2020 22:45	6	0	0
+New York	US	4/11/2020 22:45	98308	6367	0
+Michigan	US	4/11/2020 22:45	6	0	0
+South Carolina	US	4/11/2020 22:45	13	1	0
+Rhode Island	US	4/11/2020 22:45	74	0	0
+Virginia	US	4/11/2020 22:45	75	1	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	77	3	0
+Indiana	US	4/11/2020 22:45	9	1	0
+Mississippi	US	4/11/2020 22:45	12	0	0
+Missouri	US	4/11/2020 22:45	8	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+Idaho	US	4/11/2020 22:45	19	5	0
+New York	US	4/11/2020 22:45	167	4	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Minnesota	US	4/11/2020 22:45	6	1	0
+Wyoming	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	14	1	0
+Ohio	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	6	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	2	0	0
+Massachusetts	US	4/11/2020 22:45	2395	79	0
+Virginia	US	4/11/2020 22:45	90	0	0
+North Carolina	US	4/11/2020 22:45	61	1	0
+Pennsylvania	US	4/11/2020 22:45	1039	23	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Pennsylvania	US	4/11/2020 22:45	31	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Oklahoma	US	4/11/2020 22:45	10	0	0
+Mississippi	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	72	0	0
+Nevada	US	4/11/2020 22:45	10	0	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	4802	316	0
+Tennessee	US	4/11/2020 22:45	7	1	0
+New Jersey	US	4/11/2020 22:45	3403	132	0
+Michigan	US	4/11/2020 22:45	3	1	0
+Georgia	US	4/11/2020 22:45	36	1	0
+South Carolina	US	4/11/2020 22:45	13	0	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	16	0	0
+Georgia	US	4/11/2020 22:45	12	1	0
+Indiana	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	8	0	0
+West Virginia	US	4/11/2020 22:45	21	0	0
+Florida	US	4/11/2020 22:45	91	1	0
+Washington	US	4/11/2020 22:45	14	0	0
+Florida	US	4/11/2020 22:45	5	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	425	19	0
+Oklahoma	US	4/11/2020 22:45	13	0	0
+Mississippi	US	4/11/2020 22:45	36	1	0
+Kentucky	US	4/11/2020 22:45	11	0	0
+Texas	US	4/11/2020 22:45	3	1	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	132	2	0
+New York	US	4/11/2020 22:45	181	3	0
+Wisconsin	US	4/11/2020 22:45	5	0	0
+New York	US	4/11/2020 22:45	456	8	0
+North Carolina	US	4/11/2020 22:45	34	1	0
+New York	US	4/11/2020 22:45	56	0	0
+Michigan	US	4/11/2020 22:45	0	0	0
+California	US	4/11/2020 22:45	1221	18	0
+Florida	US	4/11/2020 22:45	914	13	0
+Indiana	US	4/11/2020 22:45	16	3	0
+New York	US	4/11/2020 22:45	4847	132	0
+North Carolina	US	4/11/2020 22:45	141	2	0
+Texas	US	4/11/2020 22:45	33	0	0
+Vermont	US	4/11/2020 22:45	5	0	0
+Virginia	US	4/11/2020 22:45	13	0	0
+South Carolina	US	4/11/2020 22:45	37	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	5535	232	0
+New York	US	4/11/2020 22:45	24	0	0
+Vermont	US	4/11/2020 22:45	8	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Oklahoma	US	4/11/2020 22:45	45	7	0
+Kansas	US	4/11/2020 22:45	2	0	0
+Florida	US	4/11/2020 22:45	317	5	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+Michigan	US	4/11/2020 22:45	4	0	0
+New York	US	4/11/2020 22:45	37	2	0
+Colorado	US	4/11/2020 22:45	5	0	0
+New Mexico	US	4/11/2020 22:45	3	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	31	2	0
+New York	US	4/11/2020 22:45	43	1	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	64	2	0
+Ohio	US	4/11/2020 22:45	10	0	0
+Oklahoma	US	4/11/2020 22:45	16	0	0
+Minnesota	US	4/11/2020 22:45	4	0	0
+Arkansas	US	4/11/2020 22:45	5	0	0
+Louisiana	US	4/11/2020 22:45	350	5	0
+Colorado	US	4/11/2020 22:45	4	1	0
+Colorado	US	4/11/2020 22:45	0	1	0
+Hawaii	US	4/11/2020 22:45	2	0	0
+Michigan	US	4/11/2020 22:45	140	1	0
+Oklahoma	US	4/11/2020 22:45	0	0	0
+Tennessee	US	4/11/2020 22:45	276	1	0
+Wisconsin	US	4/11/2020 22:45	29	2	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+Indiana	US	4/11/2020 22:45	18	1	0
+Idaho	US	4/11/2020 22:45	4	0	0
+Maine	US	4/11/2020 22:45	13	0	0
+Wisconsin	US	4/11/2020 22:45	72	9	0
+Washington	US	4/11/2020 22:45	1	0	0
+Iowa	US	4/11/2020 22:45	3	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Florida	US	4/11/2020 22:45	1441	80	0
+Texas	US	4/11/2020 22:45	4	1	0
+North Carolina	US	4/11/2020 22:45	5	0	0
+Mississippi	US	4/11/2020 22:45	22	2	0
+Texas	US	4/11/2020 22:45	13	1	0
+Colorado	US	4/11/2020 22:45	6	0	0
+Montana	US	4/11/2020 22:45	7	0	0
+Wyoming	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	7	0	0
+Texas	US	4/11/2020 22:45	13	0	0
+Florida	US	4/11/2020 22:45	148	2	0
+North Carolina	US	4/11/2020 22:45	15	0	0
+New Jersey	US	4/11/2020 22:45	5295	119	0
+Virginia	US	4/11/2020 22:45	0	0	0
+Georgia	US	4/11/2020 22:45	76	2	0
+Ohio	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	26	2	0
+Idaho	US	4/11/2020 22:45	8	0	0
+Oklahoma	US	4/11/2020 22:45	28	0	0
+Georgia	US	4/11/2020 22:45	21	2	0
+Mississippi	US	4/11/2020 22:45	82	6	0
+Texas	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Washington	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	5	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+South Dakota	US	4/11/2020 22:45	8	1	0
+Maine	US	4/11/2020 22:45	34	0	0
+Illinois	US	4/11/2020 22:45	23	1	0
+Wisconsin	US	4/11/2020 22:45	0	0	0
+North Carolina	US	4/11/2020 22:45	4	0	0
+Alabama	US	4/11/2020 22:45	4	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	16	1	0
+Missouri	US	4/11/2020 22:45	34	0	0
+Ohio	US	4/11/2020 22:45	8	0	0
+Pennsylvania	US	4/11/2020 22:45	16	1	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+North Carolina	US	4/11/2020 22:45	8	0	0
+Alaska	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	17	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	6022	137	0
+Arkansas	US	4/11/2020 22:45	3	0	0
+Colorado	US	4/11/2020 22:45	4	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	6	0	0
+Ohio	US	4/11/2020 22:45	51	0	0
+Alabama	US	4/11/2020 22:45	21	0	0
+Georgia	US	4/11/2020 22:45	10	2	0
+South Carolina	US	4/11/2020 22:45	28	0	0
+Georgia	US	4/11/2020 22:45	45	2	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+Washington	US	4/11/2020 22:45	922	19	0
+Wisconsin	US	4/11/2020 22:45	7	0	0
+Alabama	US	4/11/2020 22:45	18	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	15	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	47	1	0
+Missouri	US	4/11/2020 22:45	6	0	0
+Ohio	US	4/11/2020 22:45	1	0	0
+Pennsylvania	US	4/11/2020 22:45	208	6	0
+Arizona	US	4/11/2020 22:45	591	16	0
+Arizona	US	4/11/2020 22:45	146	0	0
+Minnesota	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	444	12	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	47	2	0
+North Carolina	US	4/11/2020 22:45	62	1	0
+Oklahoma	US	4/11/2020 22:45	8	0	0
+Virginia	US	4/11/2020 22:45	4	0	0
+California	US	4/11/2020 22:45	123	4	0
+Louisiana	US	4/11/2020 22:45	136	11	0
+Missouri	US	4/11/2020 22:45	25	0	0
+Nebraska	US	4/11/2020 22:45	6	0	0
+Wyoming	US	4/11/2020 22:45	0	0	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+California	US	4/11/2020 22:45	4	0	0
+Iowa	US	4/11/2020 22:45	4	0	0
+Massachusetts	US	4/11/2020 22:45	1809	51	0
+Arkansas	US	4/11/2020 22:45	7	0	0
+Louisiana	US	4/11/2020 22:45	40	2	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Florida	US	4/11/2020 22:45	242	8	0
+Georgia	US	4/11/2020 22:45	21	0	0
+Iowa	US	4/11/2020 22:45	163	4	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	9	0	0
+Oregon	US	4/11/2020 22:45	29	1	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	9	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	14	1	0
+Oklahoma	US	4/11/2020 22:45	9	0	0
+Arkansas	US	4/11/2020 22:45	26	0	0
+Virginia	US	4/11/2020 22:45	6	0	0
+Ohio	US	4/11/2020 22:45	134	14	0
+Wisconsin	US	4/11/2020 22:45	4	0	0
+Indiana	US	4/11/2020 22:45	107	1	0
+Virginia	US	4/11/2020 22:45	49	0	0
+Indiana	US	4/11/2020 22:45	5	0	0
+Kansas	US	4/11/2020 22:45	5	0	0
+Oklahoma	US	4/11/2020 22:45	25	3	0
+Iowa	US	4/11/2020 22:45	12	0	0
+Pennsylvania	US	4/11/2020 22:45	4	0	0
+Texas	US	4/11/2020 22:45	66	2	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Idaho	US	4/11/2020 22:45	2	0	0
+Iowa	US	4/11/2020 22:45	6	1	0
+Virginia	US	4/11/2020 22:45	5	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	11	1	0
+Mississippi	US	4/11/2020 22:45	12	0	0
+Michigan	US	4/11/2020 22:45	2	0	0
+West Virginia	US	4/11/2020 22:45	6	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	8	0	0
+Virginia	US	4/11/2020 22:45	26	0	0
+Maryland	US	4/11/2020 22:45	1923	50	0
+Virginia	US	4/11/2020 22:45	390	1	0
+Alaska	US	4/11/2020 22:45	1	0	0
+Rhode Island	US	4/11/2020 22:45	1278	3	0
+Colorado	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	50	2	0
+Arkansas	US	4/11/2020 22:45	249	9	0
+Georgia	US	4/11/2020 22:45	9	0	0
+Illinois	US	4/11/2020 22:45	4	0	0
+Indiana	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	26	1	0
+Missouri	US	4/11/2020 22:45	11	1	0
+Virginia	US	4/11/2020 22:45	4	0	0
+Florida	US	4/11/2020 22:45	29	1	0
+Georgia	US	4/11/2020 22:45	5	0	0
+Indiana	US	4/11/2020 22:45	32	2	0
+New York	US	4/11/2020 22:45	494	7	0
+Ohio	US	4/11/2020 22:45	0	0	0
+Tennessee	US	4/11/2020 22:45	85	0	0
+West Virginia	US	4/11/2020 22:45	10	0	0
+Maryland	US	4/11/2020 22:45	19	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	12	0	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Wisconsin	US	4/11/2020 22:45	105	3	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+West Virginia	US	4/11/2020 22:45	5	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	132	6	0
+North Dakota	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	60	2	0
+Alabama	US	4/11/2020 22:45	27	4	0
+Arkansas	US	4/11/2020 22:45	8	0	0
+Georgia	US	4/11/2020 22:45	103	5	0
+Illinois	US	4/11/2020 22:45	37	0	0
+Indiana	US	4/11/2020 22:45	8	1	0
+Missouri	US	4/11/2020 22:45	8	0	0
+North Carolina	US	4/11/2020 22:45	51	2	0
+West Virginia	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	94	2	0
+Louisiana	US	4/11/2020 22:45	159	5	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	3	0	0
+Missouri	US	4/11/2020 22:45	7	0	0
+Louisiana	US	4/11/2020 22:45	9	1	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	11	0	0
+New York	US	4/11/2020 22:45	102	5	0
+Minnesota	US	4/11/2020 22:45	3	0	0
+Kansas	US	4/11/2020 22:45	4	0	0
+Missouri	US	4/11/2020 22:45	2	0	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+Minnesota	US	4/11/2020 22:45	4	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	19	0	0
+Montana	US	4/11/2020 22:45	3	0	0
+North Dakota	US	4/11/2020 22:45	2	0	0
+Ohio	US	4/11/2020 22:45	34	1	0
+South Carolina	US	4/11/2020 22:45	479	10	0
+Wisconsin	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	138	3	0
+North Carolina	US	4/11/2020 22:45	7	1	0
+Virginia	US	4/11/2020 22:45	5	0	0
+Virginia	US	4/11/2020 22:45	148	0	0
+Kansas	US	4/11/2020 22:45	20	0	0
+New Mexico	US	4/11/2020 22:45	7	0	0
+Colorado	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	5	0	0
+Indiana	US	4/11/2020 22:45	81	3	0
+Missouri	US	4/11/2020 22:45	3	0	0
+California	US	4/11/2020 22:45	1431	41	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Virginia	US	4/11/2020 22:45	13	0	0
+Virginia	US	4/11/2020 22:45	17	0	0
+South Dakota	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	81	0	0
+Texas	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	7	0	0
+Wisconsin	US	4/11/2020 22:45	53	3	0
+Illinois	US	4/11/2020 22:45	84	3	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Kentucky	US	4/11/2020 22:45	6	0	0
+Georgia	US	4/11/2020 22:45	91	2	0
+New Hampshire	US	4/11/2020 22:45	305	1	0
+North Carolina	US	4/11/2020 22:45	14	2	0
+Virginia	US	4/11/2020 22:45	44	0	0
+New York	US	4/11/2020 22:45	7477	200	0
+Texas	US	4/11/2020 22:45	20	0	0
+Oklahoma	US	4/11/2020 22:45	24	0	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	2	0	0
+Montana	US	4/11/2020 22:45	3	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	8	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	13	0	0
+Colorado	US	4/11/2020 22:45	35	0	0
+North Carolina	US	4/11/2020 22:45	105	2	0
+Indiana	US	4/11/2020 22:45	13	1	0
+Texas	US	4/11/2020 22:45	14	0	0
+Wisconsin	US	4/11/2020 22:45	3	0	0
+Alabama	US	4/11/2020 22:45	22	0	0
+Kentucky	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+North Carolina	US	4/11/2020 22:45	37	1	0
+Tennessee	US	4/11/2020 22:45	235	6	0
+Vermont	US	4/11/2020 22:45	35	0	0
+Louisiana	US	4/11/2020 22:45	8	0	0
+California	US	4/11/2020 22:45	653	24	0
+Maine	US	4/11/2020 22:45	15	1	0
+Michigan	US	4/11/2020 22:45	254	9	0
+Colorado	US	4/11/2020 22:45	3	0	0
+New Jersey	US	4/11/2020 22:45	56	3	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	32	1	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Kansas	US	4/11/2020 22:45	8	1	0
+Missouri	US	4/11/2020 22:45	22	0	0
+Utah	US	4/11/2020 22:45	1071	7	0
+South Carolina	US	4/11/2020 22:45	7	0	0
+North Carolina	US	4/11/2020 22:45	11	0	0
+Texas	US	4/11/2020 22:45	9	1	0
+California	US	4/11/2020 22:45	35	2	0
+California	US	4/11/2020 22:45	810	25	0
+California	US	4/11/2020 22:45	1693	44	0
+California	US	4/11/2020 22:45	857	13	0
+Texas	US	4/11/2020 22:45	5	0	0
+California	US	4/11/2020 22:45	257	14	0
+New Mexico	US	4/11/2020 22:45	142	0	0
+Utah	US	4/11/2020 22:45	8	0	0
+Washington	US	4/11/2020 22:45	13	0	0
+California	US	4/11/2020 22:45	110	1	0
+California	US	4/11/2020 22:45	652	21	0
+Colorado	US	4/11/2020 22:45	11	0	0
+New Mexico	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	7	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+New Mexico	US	4/11/2020 22:45	177	3	0
+Ohio	US	4/11/2020 22:45	10	2	0
+Illinois	US	4/11/2020 22:45	43	2	0
+Michigan	US	4/11/2020 22:45	23	2	0
+California	US	4/11/2020 22:45	260	2	0
+California	US	4/11/2020 22:45	1484	50	0
+Arizona	US	4/11/2020 22:45	8	0	0
+California	US	4/11/2020 22:45	80	1	0
+New Mexico	US	4/11/2020 22:45	72	0	0
+Florida	US	4/11/2020 22:45	105	3	0
+Florida	US	4/11/2020 22:45	219	12	0
+New York	US	4/11/2020 22:45	187	4	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	41	0	0
+Wisconsin	US	4/11/2020 22:45	25	2	0
+Nebraska	US	4/11/2020 22:45	5	0	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	194	7	0
+Georgia	US	4/11/2020 22:45	12	1	0
+New York	US	4/11/2020 22:45	12	0	0
+Michigan	US	4/11/2020 22:45	2	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	5	0	0
+Pennsylvania	US	4/11/2020 22:45	179	2	0
+Ohio	US	4/11/2020 22:45	4	0	0
+Missouri	US	4/11/2020 22:45	3	0	0
+North Carolina	US	4/11/2020 22:45	9	0	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	14	2	0
+Iowa	US	4/11/2020 22:45	111	1	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	15	0	0
+Minnesota	US	4/11/2020 22:45	20	1	0
+Mississippi	US	4/11/2020 22:45	52	0	0
+Missouri	US	4/11/2020 22:45	14	0	0
+Tennessee	US	4/11/2020 22:45	8	0	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Nebraska	US	4/11/2020 22:45	12	0	0
+Georgia	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	0	0	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Arkansas	US	4/11/2020 22:45	10	0	0
+Kansas	US	4/11/2020 22:45	191	2	0
+Florida	US	4/11/2020 22:45	242	2	0
+Georgia	US	4/11/2020 22:45	14	0	0
+Oklahoma	US	4/11/2020 22:45	6	1	0
+New York	US	4/11/2020 22:45	16	0	0
+Ohio	US	4/11/2020 22:45	8	1	0
+Tennessee	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	9	2	0
+Arkansas	US	4/11/2020 22:45	6	0	0
+Tennessee	US	4/11/2020 22:45	21	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Mississippi	US	4/11/2020 22:45	3	0	0
+Arkansas	US	4/11/2020 22:45	2	0	0
+California	US	4/11/2020 22:45	24	3	0
+Wisconsin	US	4/11/2020 22:45	5	0	0
+Kansas	US	4/11/2020 22:45	73	3	0
+Wisconsin	US	4/11/2020 22:45	34	2	0
+Alabama	US	4/11/2020 22:45	193	5	0
+Illinois	US	4/11/2020 22:45	3	0	0
+Indiana	US	4/11/2020 22:45	68	2	0
+Iowa	US	4/11/2020 22:45	6	0	0
+Kentucky	US	4/11/2020 22:45	11	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Ohio	US	4/11/2020 22:45	25	0	0
+Tennessee	US	4/11/2020 22:45	1147	26	0
+Texas	US	4/11/2020 22:45	34	0	0
+Virginia	US	4/11/2020 22:45	16	0	0
+Minnesota	US	4/11/2020 22:45	9	0	0
+Wyoming	US	4/11/2020 22:45	12	0	0
+Oregon	US	4/11/2020 22:45	1	0	0
+Michigan	US	4/11/2020 22:45	37	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Montana	US	4/11/2020 22:45	11	0	0
+Kentucky	US	4/11/2020 22:45	14	1	0
+Mississippi	US	4/11/2020 22:45	7	0	0
+Iowa	US	4/11/2020 22:45	7	0	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+California	US	4/11/2020 22:45	5	0	0
+Washington	US	4/11/2020 22:45	185	6	0
+Washington	US	4/11/2020 22:45	3	0	0
+North Dakota	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	23	1	0
+Tennessee	US	4/11/2020 22:45	7	0	0
+Texas	US	4/11/2020 22:45	93	2	0
+Virginia	US	4/11/2020 22:45	9	0	0
+Washington	US	4/11/2020 22:45	1835	68	0
+Pennsylvania	US	4/11/2020 22:45	16	1	0
+New Mexico	US	4/11/2020 22:45	10	0	0
+California	US	4/11/2020 22:45	121	2	0
+Maine	US	4/11/2020 22:45	6	0	0
+Maryland	US	4/11/2020 22:45	4	0	0
+New Jersey	US	4/11/2020 22:45	1642	78	0
+Pennsylvania	US	4/11/2020 22:45	10	0	0
+California	US	4/11/2020 22:45	145	2	0
+Virginia	US	4/11/2020 22:45	5	0	0
+Alaska	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	65	4	0
+South Carolina	US	4/11/2020 22:45	170	4	0
+Indiana	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	3	0	0
+Washington	US	4/11/2020 22:45	251	14	0
+Virginia	US	4/11/2020 22:45	47	0	0
+Louisiana	US	4/11/2020 22:45	358	10	0
+Louisiana	US	4/11/2020 22:45	401	24	0
+Missouri	US	4/11/2020 22:45	348	11	0
+Alabama	US	4/11/2020 22:45	38	0	0
+Illinois	US	4/11/2020 22:45	173	7	0
+Michigan	US	4/11/2020 22:45	190	4	0
+Missouri	US	4/11/2020 22:45	2	0	0
+Wisconsin	US	4/11/2020 22:45	8	0	0
+Arkansas	US	4/11/2020 22:45	31	0	0
+Missouri	US	4/11/2020 22:45	21	1	0
+Louisiana	US	4/11/2020 22:45	13	0	0
+Louisiana	US	4/11/2020 22:45	197	9	0
+Louisiana	US	4/11/2020 22:45	538	38	0
+Florida	US	4/11/2020 22:45	167	2	0
+Indiana	US	4/11/2020 22:45	186	3	0
+Michigan	US	4/11/2020 22:45	20	0	0
+Louisiana	US	4/11/2020 22:45	109	11	0
+New York	US	4/11/2020 22:45	82	0	0
+Minnesota	US	4/11/2020 22:45	37	4	0
+Missouri	US	4/11/2020 22:45	1568	42	0
+Missouri	US	4/11/2020 22:45	594	17	0
+Florida	US	4/11/2020 22:45	148	6	0
+Louisiana	US	4/11/2020 22:45	146	7	0
+Louisiana	US	4/11/2020 22:45	105	2	0
+Maryland	US	4/11/2020 22:45	73	0	0
+Louisiana	US	4/11/2020 22:45	845	32	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	67	0	0
+California	US	4/11/2020 22:45	116	1	0
+North Carolina	US	4/11/2020 22:45	14	1	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+North Dakota	US	4/11/2020 22:45	30	2	0
+Ohio	US	4/11/2020 22:45	133	11	0
+Indiana	US	4/11/2020 22:45	8	0	0
+Texas	US	4/11/2020 22:45	7	0	0
+Virginia	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	6	1	0
+Minnesota	US	4/11/2020 22:45	7	0	0
+Minnesota	US	4/11/2020 22:45	9	0	0
+Georgia	US	4/11/2020 22:45	17	0	0
+Oklahoma	US	4/11/2020 22:45	13	1	0
+Texas	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	8	0	0
+Indiana	US	4/11/2020 22:45	12	1	0
+New York	US	4/11/2020 22:45	117	6	0
+Kansas	US	4/11/2020 22:45	2	0	0
+Washington	US	4/11/2020 22:45	6	0	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Montana	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	9	0	0
+North Carolina	US	4/11/2020 22:45	10	0	0
+Arkansas	US	4/11/2020 22:45	7	0	0
+Mississippi	US	4/11/2020 22:45	9	0	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Iowa	US	4/11/2020 22:45	7	0	0
+New Hampshire	US	4/11/2020 22:45	53	0	0
+North Dakota	US	4/11/2020 22:45	1	0	0
+Wyoming	US	4/11/2020 22:45	1	0	0
+Massachusetts	US	4/11/2020 22:45	4926	79	0
+New York	US	4/11/2020 22:45	20321	458	0
+Virginia	US	4/11/2020 22:45	40	0	0
+Indiana	US	4/11/2020 22:45	5	0	0
+New Hampshire	US	4/11/2020 22:45	6	0	0
+New York	US	4/11/2020 22:45	340	7	0
+Pennsylvania	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	37	1	0
+Colorado	US	4/11/2020 22:45	64	0	0
+Ohio	US	4/11/2020 22:45	243	14	0
+Utah	US	4/11/2020 22:45	300	0	0
+Kansas	US	4/11/2020 22:45	2	1	0
+Tennessee	US	4/11/2020 22:45	435	22	0
+Alabama	US	4/11/2020 22:45	19	0	0
+Florida	US	4/11/2020 22:45	107	9	0
+Georgia	US	4/11/2020 22:45	222	9	0
+South Carolina	US	4/11/2020 22:45	146	4	0
+Mississippi	US	4/11/2020 22:45	35	1	0
+North Carolina	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	23	2	0
+Delaware	US	4/11/2020 22:45	404	10	0
+New Jersey	US	4/11/2020 22:45	456	27	0
+Virginia	US	4/11/2020 22:45	8	0	0
+California	US	4/11/2020 22:45	37	3	0
+Florida	US	4/11/2020 22:45	66	0	0
+Wyoming	US	4/11/2020 22:45	7	0	0
+Minnesota	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Indiana	US	4/11/2020 22:45	13	0	0
+Georgia	US	4/11/2020 22:45	9	1	0
+Maryland	US	4/11/2020 22:45	13	1	0
+Alabama	US	4/11/2020 22:45	32	0	0
+Mississippi	US	4/11/2020 22:45	3	0	0
+Alabama	US	4/11/2020 22:45	61	4	0
+Iowa	US	4/11/2020 22:45	77	2	0
+Missouri	US	4/11/2020 22:45	7	1	0
+Louisiana	US	4/11/2020 22:45	318	7	0
+New Mexico	US	4/11/2020 22:45	15	0	0
+Texas	US	4/11/2020 22:45	705	25	0
+Mississippi	US	4/11/2020 22:45	23	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Florida	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	7	2	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	55	1	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+Illinois	US	4/11/2020 22:45	18	2	0
+Virginia	US	4/11/2020 22:45	4	0	0
+California	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	9	0	0
+Colorado	US	4/11/2020 22:45	12	2	0
+Louisiana	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	248	14	0
+Georgia	US	4/11/2020 22:45	104	10	0
+Texas	US	4/11/2020 22:45	7	0	0
+Idaho	US	4/11/2020 22:45	6	0	0
+Wyoming	US	4/11/2020 22:45	53	0	0
+Missouri	US	4/11/2020 22:45	0	0	0
+Oklahoma	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	74	3	0
+Washington	US	4/11/2020 22:45	81	1	0
+Georgia	US	4/11/2020 22:45	57	1	0
+Oregon	US	4/11/2020 22:45	4	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	19	0	0
+Pennsylvania	US	4/11/2020 22:45	12	1	0
+Mississippi	US	4/11/2020 22:45	43	6	0
+Indiana	US	4/11/2020 22:45	43	1	0
+Indiana	US	4/11/2020 22:45	9	0	0
+Tennessee	US	4/11/2020 22:45	44	0	0
+Mississippi	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+South Dakota	US	4/11/2020 22:45	1	0	0
+Connecticut	US	4/11/2020 22:45	171	15	0
+Texas	US	4/11/2020 22:45	35	1	0
+New York	US	4/11/2020 22:45	108	0	0
+Utah	US	4/11/2020 22:45	31	0	0
+Montana	US	4/11/2020 22:45	20	3	0
+Georgia	US	4/11/2020 22:45	11	1	0
+New Mexico	US	4/11/2020 22:45	9	0	0
+Georgia	US	4/11/2020 22:45	3	0	0
+North Carolina	US	4/11/2020 22:45	6	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	690	9	0
+Wisconsin	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	1	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	55	3	0
+Tennessee	US	4/11/2020 22:45	17	1	0
+Ohio	US	4/11/2020 22:45	155	8	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+California	US	4/11/2020 22:45	203	11	0
+Oklahoma	US	4/11/2020 22:45	323	16	0
+Mississippi	US	4/11/2020 22:45	19	1	0
+California	US	4/11/2020 22:45	1	0	0
+Georgia	US	4/11/2020 22:45	29	0	0
+South Dakota	US	4/11/2020 22:45	5	0	0
+Alabama	US	4/11/2020 22:45	99	0	0
+Ohio	US	4/11/2020 22:45	26	0	0
+Michigan	US	4/11/2020 22:45	40	6	0
+Georgia	US	4/11/2020 22:45	2	0	0
+Idaho	US	4/11/2020 22:45	73	1	0
+Texas	US	4/11/2020 22:45	4	0	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+Wyoming	US	4/11/2020 22:45	4	0	0
+Utah	US	4/11/2020 22:45	6	0	0
+New York	US	4/11/2020 22:45	589	8	0
+Oregon	US	4/11/2020 22:45	11	0	0
+Alabama	US	4/11/2020 22:45	0	0	0
+Alaska	US	4/11/2020 22:45	0	3	0
+Arizona	US	4/11/2020 22:45	0	29	0
+Arkansas	US	4/11/2020 22:45	19	0	0
+California	US	4/11/2020 22:45	4	0	0
+Colorado	US	4/11/2020 22:45	145	1	0
+Connecticut	US	4/11/2020 22:45	456	5	0
+Delaware	US	4/11/2020 22:45	13	0	0
+Florida	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	1397	4	0
+Hawaii	US	4/11/2020 22:45	4	0	0
+Idaho	US	4/11/2020 22:45	0	0	0
+Illinois	US	4/11/2020 22:45	85	0	0
+Indiana	US	4/11/2020 22:45	0	0	0
+Iowa	US	4/11/2020 22:45	0	6	0
+Kansas	US	4/11/2020 22:45	0	11	0
+Kentucky	US	4/11/2020 22:45	385	21	0
+Louisiana	US	4/11/2020 22:45	54	3	0
+Maine	US	4/11/2020 22:45	3	0	0
+Massachusetts	US	4/11/2020 22:45	225	13	0
+Michigan	US	4/11/2020 22:45	86	7	0
+Minnesota	US	4/11/2020 22:45	4	1	0
+Mississippi	US	4/11/2020 22:45	0	0	0
+Missouri	US	4/11/2020 22:45	0	0	0
+Montana	US	4/11/2020 22:45	0	0	0
+Nebraska	US	4/11/2020 22:45	0	2	0
+Nevada	US	4/11/2020 22:45	96	16	0
+New Hampshire	US	4/11/2020 22:45	0	19	0
+New Jersey	US	4/11/2020 22:45	924	2	0
+New Mexico	US	4/11/2020 22:45	0	0	0
+New York	US	4/11/2020 22:45	0	4	0
+Northern Mariana Islands	US	4/11/2020 22:45	5	1	0
+Ohio	US	4/11/2020 22:45	0	0	0
+Oklahoma	US	4/11/2020 22:45	0	0	0
+Pennsylvania	US	4/11/2020 22:45	0	0	0
+Rhode Island	US	4/11/2020 22:45	649	53	0
+South Dakota	US	4/11/2020 22:45	0	0	0
+Tennessee	US	4/11/2020 22:45	19	0	0
+Vermont	US	4/11/2020 22:45	11	0	0
+Virginia	US	4/11/2020 22:45	0	91	0
+Washington	US	4/11/2020 22:45	848	0	0
+West Virginia	US	4/11/2020 22:45	0	1	0
+Wisconsin	US	4/11/2020 22:45	0	0	0
+Wyoming	US	4/11/2020 22:45	0	0	0
+Tennessee	US	4/11/2020 22:45	1	0	0
+Arkansas	US	4/11/2020 22:45	18	0	0
+Florida	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	7	1	0
+Indiana	US	4/11/2020 22:45	5	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	45	3	0
+Mississippi	US	4/11/2020 22:45	7	1	0
+New Jersey	US	4/11/2020 22:45	5865	195	0
+North Carolina	US	4/11/2020 22:45	101	1	0
+Ohio	US	4/11/2020 22:45	10	0	0
+Oregon	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	14	0	0
+South Carolina	US	4/11/2020 22:45	22	0	0
+South Dakota	US	4/11/2020 22:45	4	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	6	0	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	51	1	0
+Utah	US	4/11/2020 22:45	295	2	0
+Texas	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	10	0	0
+New Mexico	US	4/11/2020 22:45	14	0	0
+Idaho	US	4/11/2020 22:45	2	0	0
+Arkansas	US	4/11/2020 22:45	26	2	0
+Iowa	US	4/11/2020 22:45	6	0	0
+Michigan	US	4/11/2020 22:45	21	1	0
+Tennessee	US	4/11/2020 22:45	0	0	0
+Ohio	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	10	1	0
+North Carolina	US	4/11/2020 22:45	19	0	0
+Indiana	US	4/11/2020 22:45	53	1	0
+Pennsylvania	US	4/11/2020 22:45	6	0	0
+California	US	4/11/2020 22:45	298	10	0
+Illinois	US	4/11/2020 22:45	7	0	0
+Louisiana	US	4/11/2020 22:45	24	1	0
+Indiana	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	14	0	0
+Missouri	US	4/11/2020 22:45	3	0	0
+Texas	US	4/11/2020 22:45	76	0	0
+Indiana	US	4/11/2020 22:45	41	2	0
+Wisconsin	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	236	1	0
+Florida	US	4/11/2020 22:45	195	6	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	7	0	0
+Minnesota	US	4/11/2020 22:45	6	0	0
+Kansas	US	4/11/2020 22:45	1	0	0
+Oklahoma	US	4/11/2020 22:45	67	4	0
+Washington	US	4/11/2020 22:45	2	0	0
+North Carolina	US	4/11/2020 22:45	424	0	0
+Florida	US	4/11/2020 22:45	7	0	0
+Maine	US	4/11/2020 22:45	27	2	0
+Alabama	US	4/11/2020 22:45	78	0	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Texas	US	4/11/2020 22:45	17	0	0
+Washington	US	4/11/2020 22:45	20	0	0
+Texas	US	4/11/2020 22:45	14	0	0
+Oregon	US	4/11/2020 22:45	1	0	0
+North Dakota	US	4/11/2020 22:45	3	0	0
+Mississippi	US	4/11/2020 22:45	16	0	0
+Florida	US	4/11/2020 22:45	27	0	0
+Georgia	US	4/11/2020 22:45	36	2	0
+Wisconsin	US	4/11/2020 22:45	35	0	0
+Iowa	US	4/11/2020 22:45	4	0	0
+North Dakota	US	4/11/2020 22:45	20	0	0
+Georgia	US	4/11/2020 22:45	50	4	0
+Georgia	US	4/11/2020 22:45	6	0	0
+Illinois	US	4/11/2020 22:45	1	0	0
+Indiana	US	4/11/2020 22:45	2	1	0
+Iowa	US	4/11/2020 22:45	15	0	0
+Kentucky	US	4/11/2020 22:45	24	0	0
+Mississippi	US	4/11/2020 22:45	11	0	0
+Missouri	US	4/11/2020 22:45	13	0	0
+New Jersey	US	4/11/2020 22:45	362	18	0
+New York	US	4/11/2020 22:45	44	0	0
+North Carolina	US	4/11/2020 22:45	3	0	0
+Ohio	US	4/11/2020 22:45	74	0	0
+Pennsylvania	US	4/11/2020 22:45	1	0	0
+Tennessee	US	4/11/2020 22:45	4	0	0
+Virginia	US	4/11/2020 22:45	15	0	0
+Indiana	US	4/11/2020 22:45	34	2	0
+Utah	US	4/11/2020 22:45	98	0	0
+Oregon	US	4/11/2020 22:45	7	0	0
+Minnesota	US	4/11/2020 22:45	3	0	0
+Wyoming	US	4/11/2020 22:45	5	0	0
+Alabama	US	4/11/2020 22:45	12	1	0
+Arkansas	US	4/11/2020 22:45	37	0	0
+Colorado	US	4/11/2020 22:45	2	0	0
+Florida	US	4/11/2020 22:45	3	0	0
+Georgia	US	4/11/2020 22:45	21	0	0
+Idaho	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	2	0	0
+Indiana	US	4/11/2020 22:45	23	0	0
+Iowa	US	4/11/2020 22:45	79	3	0
+Kentucky	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	142	7	0
+Maine	US	4/11/2020 22:45	1	0	0
+Maryland	US	4/11/2020 22:45	72	1	0
+Minnesota	US	4/11/2020 22:45	77	2	0
+Mississippi	US	4/11/2020 22:45	49	2	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Nebraska	US	4/11/2020 22:45	20	0	0
+New York	US	4/11/2020 22:45	31	1	0
+North Carolina	US	4/11/2020 22:45	15	1	0
+Ohio	US	4/11/2020 22:45	36	0	0
+Oklahoma	US	4/11/2020 22:45	83	2	0
+Oregon	US	4/11/2020 22:45	320	6	0
+Pennsylvania	US	4/11/2020 22:45	66	0	0
+Rhode Island	US	4/11/2020 22:45	140	0	0
+Tennessee	US	4/11/2020 22:45	37	0	0
+Texas	US	4/11/2020 22:45	36	1	0
+Utah	US	4/11/2020 22:45	41	1	0
+Vermont	US	4/11/2020 22:45	28	0	0
+Virginia	US	4/11/2020 22:45	24	0	0
+Wisconsin	US	4/11/2020 22:45	71	3	0
+Nevada	US	4/11/2020 22:45	389	10	0
+Michigan	US	4/11/2020 22:45	685	18	0
+North Carolina	US	4/11/2020 22:45	8	0	0
+Minnesota	US	4/11/2020 22:45	4	0	0
+Wisconsin	US	4/11/2020 22:45	201	6	0
+Wisconsin	US	4/11/2020 22:45	3	1	0
+Wisconsin	US	4/11/2020 22:45	2	0	0
+Georgia	US	4/11/2020 22:45	4	0	0
+Indiana	US	4/11/2020 22:45	17	1	0
+Kentucky	US	4/11/2020 22:45	4	0	0
+Michigan	US	4/11/2020 22:45	10951	652	0
+Mississippi	US	4/11/2020 22:45	8	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+New York	US	4/11/2020 22:45	42	0	0
+North Carolina	US	4/11/2020 22:45	69	1	0
+Ohio	US	4/11/2020 22:45	40	5	0
+Pennsylvania	US	4/11/2020 22:45	57	0	0
+Tennessee	US	4/11/2020 22:45	2	0	0
+West Virginia	US	4/11/2020 22:45	17	0	0
+Virginia	US	4/11/2020 22:45	5	0	0
+Tennessee	US	4/11/2020 22:45	5	0	0
+Texas	US	4/11/2020 22:45	171	6	0
+Utah	US	4/11/2020 22:45	93	1	0
+Georgia	US	4/11/2020 22:45	3	0	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Kentucky	US	4/11/2020 22:45	7	0	0
+Louisiana	US	4/11/2020 22:45	60	2	0
+Mississippi	US	4/11/2020 22:45	14	1	0
+Missouri	US	4/11/2020 22:45	4	0	0
+Nebraska	US	4/11/2020 22:45	1	0	0
+Colorado	US	4/11/2020 22:45	649	40	0
+Indiana	US	4/11/2020 22:45	3	0	0
+Louisiana	US	4/11/2020 22:45	66	9	0
+Louisiana	US	4/11/2020 22:45	4	0	0
+Louisiana	US	4/11/2020 22:45	45	0	0
+New York	US	4/11/2020 22:45	18729	461	0
+Pennsylvania	US	4/11/2020 22:45	218	6	0
+Virginia	US	4/11/2020 22:45	8	0	0
+West Virginia	US	4/11/2020 22:45	3	0	0
+Michigan	US	4/11/2020 22:45	7	1	0
+Texas	US	4/11/2020 22:45	24	0	0
+Washington	US	4/11/2020 22:45	261	23	0
+Georgia	US	4/11/2020 22:45	2	0	0
+Arkansas	US	4/11/2020 22:45	28	0	0
+Georgia	US	4/11/2020 22:45	11	0	0
+Indiana	US	4/11/2020 22:45	3	0	0
+Tennessee	US	4/11/2020 22:45	3	0	0
+Nevada	US	4/11/2020 22:45	1	0	0
+Illinois	US	4/11/2020 22:45	25	1	0
+Georgia	US	4/11/2020 22:45	24	3	0
+Indiana	US	4/11/2020 22:45	11	1	0
+Kentucky	US	4/11/2020 22:45	1	0	0
+Washington	US	4/11/2020 22:45	12	0	0
+Texas	US	4/11/2020 22:45	54	0	0
+Maryland	US	4/11/2020 22:45	33	1	0
+Alabama	US	4/11/2020 22:45	24	0	0
+Georgia	US	4/11/2020 22:45	5	0	0
+Georgia	US	4/11/2020 22:45	6	0	0
+North Carolina	US	4/11/2020 22:45	4	1	0
+Minnesota	US	4/11/2020 22:45	7	1	0
+Georgia	US	4/11/2020 22:45	10	1	0
+Mississippi	US	4/11/2020 22:45	42	3	0
+Illinois	US	4/11/2020 22:45	1126	57	0
+Texas	US	4/11/2020 22:45	5	1	0
+North Dakota	US	4/11/2020 22:45	8	0	0
+Ohio	US	4/11/2020 22:45	3	0	0
+South Carolina	US	4/11/2020 22:45	15	0	0
+Virginia	US	4/11/2020 22:45	17	1	0
+Illinois	US	4/11/2020 22:45	10	0	0
+Tennessee	US	4/11/2020 22:45	312	4	0
+Texas	US	4/11/2020 22:45	110	4	0
+North Carolina	US	4/11/2020 22:45	58	3	0
+Tennessee	US	4/11/2020 22:45	135	1	0
+Texas	US	4/11/2020 22:45	10	0	0
+Virginia	US	4/11/2020 22:45	19	0	0
+Connecticut	US	4/11/2020 22:45	66	1	0
+Vermont	US	4/11/2020 22:45	50	1	0
+Vermont	US	4/11/2020 22:45	25	2	0
+Texas	US	4/11/2020 22:45	1	0	0
+Louisiana	US	4/11/2020 22:45	9	2	0
+Illinois	US	4/11/2020 22:45	80	4	0
+Iowa	US	4/11/2020 22:45	2	0	0
+Wisconsin	US	4/11/2020 22:45	25	1	0
+Iowa	US	4/11/2020 22:45	5	0	0
+Minnesota	US	4/11/2020 22:45	26	5	0
+Alabama	US	4/11/2020 22:45	4	0	0
+Mississippi	US	4/11/2020 22:45	18	0	0
+West Virginia	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	5	0	0
+Virginia	US	4/11/2020 22:45	8	0	0
+Ohio	US	4/11/2020 22:45	52	3	0
+Texas	US	4/11/2020 22:45	5	0	0
+West Virginia	US	4/11/2020 22:45	18	0	0
+Wisconsin	US	4/11/2020 22:45	2	0	0
+Iowa	US	4/11/2020 22:45	18	0	0
+Illinois	US	4/11/2020 22:45	7	0	0
+Kentucky	US	4/11/2020 22:45	9	1	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Kansas	US	4/11/2020 22:45	3	0	0
+Oklahoma	US	4/11/2020 22:45	1	0	0
+Maryland	US	4/11/2020 22:45	19	0	0
+Massachusetts	US	4/11/2020 22:45	1822	41	0
+Georgia	US	4/11/2020 22:45	78	4	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Missouri	US	4/11/2020 22:45	1	0	0
+Iowa	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	16	1	0
+Missouri	US	4/11/2020 22:45	7	0	0
+Ohio	US	4/11/2020 22:45	10	2	0
+Kansas	US	4/11/2020 22:45	315	20	0
+New York	US	4/11/2020 22:45	31	1	0
+Pennsylvania	US	4/11/2020 22:45	8	0	0
+West Virginia	US	4/11/2020 22:45	1	0	0
+Virginia	US	4/11/2020 22:45	7	0	0
+North Carolina	US	4/11/2020 22:45	10	0	0
+Washington	US	4/11/2020 22:45	511	20	0
+Mississippi	US	4/11/2020 22:45	13	0	0
+Oregon	US	4/11/2020 22:45	28	5	0
+South Dakota	US	4/11/2020 22:45	20	0	0
+New York	US	4/11/2020 22:45	2	0	0
+Arizona	US	4/11/2020 22:45	63	0	0
+Mississippi	US	4/11/2020 22:45	58	1	0
+Arkansas	US	4/11/2020 22:45	1	0	0
+Minnesota	US	4/11/2020 22:45	2	0	0
+Montana	US	4/11/2020 22:45	57	0	0
+California	US	4/11/2020 22:45	75	3	0
+Maine	US	4/11/2020 22:45	143	3	0
+Nebraska	US	4/11/2020 22:45	3	0	0
+Pennsylvania	US	4/11/2020 22:45	293	3	0
+South Carolina	US	4/11/2020 22:45	127	3	0
+Virginia	US	4/11/2020 22:45	27	1	0
+Texas	US	4/11/2020 22:45	3	0	0
+California	US	4/11/2020 22:45	15	1	0
+Alaska	US	4/11/2020 22:45	1	0	0
+Arizona	US	4/11/2020 22:45	15	0	0
+Colorado	US	4/11/2020 22:45	2	0	0
+Texas	US	4/11/2020 22:45	3	0	0
+Alberta	Canada	4/11/2020 22:52	1567	40	0
+Anguilla	United Kingdom	4/11/2020 22:45	3	0	0
+Anhui	China	4/9/2020 1:12	991	6	984
+Aruba	Netherlands	4/11/2020 22:45	92	0	29
+Australian Capital Territory	Australia	4/11/2020 22:52	103	2	59
+Beijing	China	4/11/2020 0:47	589	8	474
+Bermuda	United Kingdom	4/11/2020 22:45	48	4	25
+"Bonaire, Sint Eustatius and Saba"	Netherlands	4/11/2020 22:45	2	0	0
+British Columbia	Canada	4/11/2020 22:52	1445	58	0
+British Virgin Islands	United Kingdom	4/11/2020 22:45	3	0	2
+Cayman Islands	United Kingdom	4/11/2020 22:45	45	1	6
+Channel Islands	United Kingdom	4/11/2020 22:45	407	9	48
+Chongqing	China	3/29/2020 0:14	579	6	570
+Curacao	Netherlands	4/11/2020 22:45	14	1	7
+Diamond Princess	Canada	4/11/2020 22:52	0	1	0
+Diamond Princess	US	4/11/2020 22:45	49	0	0
+Falkland Islands (Malvinas)	United Kingdom	4/11/2020 22:45	5	0	1
+Faroe Islands	Denmark	4/11/2020 22:45	184	0	145
+French Guiana	France	4/11/2020 22:45	83	0	43
+French Polynesia	France	4/11/2020 22:45	51	0	0
+Fujian	China	4/11/2020 1:53	351	1	317
+Gansu	China	4/9/2020 2:02	139	2	135
+Gibraltar	United Kingdom	4/11/2020 22:45	129	0	84
+Grand Princess	Canada	4/11/2020 22:52	13	0	0
+Grand Princess	US	4/11/2020 22:45	103	3	0
+Greenland	Denmark	4/11/2020 22:45	11	0	11
+Guadeloupe	France	4/11/2020 22:45	143	8	67
+Guam	US	4/11/2020 22:45	133	5	0
+Guangdong	China	4/11/2020 1:26	1548	8	1437
+Guangxi	China	4/2/2020 0:16	254	2	252
+Guizhou	China	3/18/2020 1:37	146	2	144
+Hainan	China	3/24/2020 4:19	168	6	162
+Hebei	China	4/9/2020 0:59	327	6	313
+Heilongjiang	China	4/11/2020 0:29	661	13	470
+Henan	China	4/6/2020 0:42	1276	22	1252
+Hong Kong	China	4/11/2020 8:51	1000	4	336
+Hubei	China	4/11/2020 1:38	67803	3219	64264
+Hunan	China	4/2/2020 1:30	1019	4	1014
+Inner Mongolia	China	4/11/2020 2:19	155	1	79
+Isle of Man	United Kingdom	4/11/2020 22:45	226	2	112
+Jiangsu	China	4/11/2020 0:55	652	0	636
+Jiangxi	China	4/10/2020 1:22	937	1	936
+Jilin	China	4/11/2020 0:18	98	1	96
+Liaoning	China	4/11/2020 0:29	145	2	133
+Macau	China	4/8/2020 9:36	45	0	10
+Manitoba	Canada	4/11/2020 22:52	243	4	0
+Martinique	France	4/11/2020 22:45	155	6	50
+Mayotte	France	4/11/2020 22:45	196	3	59
+Montserrat	United Kingdom	4/11/2020 22:45	9	0	0
+New Brunswick	Canada	4/11/2020 22:52	112	0	0
+New Caledonia	France	4/11/2020 22:45	18	0	1
+New South Wales	Australia	4/11/2020 22:52	2857	23	4
+Newfoundland and Labrador	Canada	4/11/2020 22:52	241	3	0
+Ningxia	China	3/16/2020 8:47	75	0	75
+Northern Mariana Islands	US	4/11/2020 22:45	6	1	0
+Northern Territory	Australia	4/11/2020 22:52	28	0	2
+Northwest Territories	Canada	4/11/2020 22:52	5	0	0
+Nova Scotia	Canada	4/11/2020 22:52	428	2	0
+Ontario	Canada	4/11/2020 22:52	6648	253	0
+Prince Edward Island	Canada	4/11/2020 22:52	25	0	0
+Puerto Rico	US	4/11/2020 22:45	788	42	0
+Qinghai	China	2/23/2020 11:19	18	0	18
+Quebec	Canada	4/11/2020 22:52	12292	289	0
+Queensland	Australia	4/11/2020 22:52	974	5	372
+Recovered	Canada	4/11/2020 22:52	0	0	6589
+Recovered	US	4/11/2020 22:45	0	0	31270
+Reunion	France	4/11/2020 22:45	388	0	40
+Saint Barthelemy	France	4/11/2020 22:45	6	0	1
+Saint Pierre and Miquelon	France	4/11/2020 22:45	1	0	0
+Saskatchewan	Canada	4/11/2020 22:52	289	4	0
+Shaanxi	China	4/11/2020 0:52	256	3	248
+Shandong	China	4/11/2020 0:37	784	7	757
+Shanghai	China	4/11/2020 8:35	555	7	438
+Shanxi	China	4/11/2020 0:16	172	0	135
+Sichuan	China	4/11/2020 0:41	560	3	547
+Sint Maarten	Netherlands	4/11/2020 22:45	50	9	5
+South Australia	Australia	4/11/2020 22:52	429	3	179
+St Martin	France	4/11/2020 22:45	32	2	11
+Tasmania	Australia	4/11/2020 22:52	133	4	48
+Tianjin	China	4/11/2020 12:53	183	3	161
+Tibet	China	2/23/2020 11:19	1	0	1
+Turks and Caicos Islands	United Kingdom	4/11/2020 22:45	8	1	0
+Victoria	Australia	4/11/2020 22:52	1265	14	926
+Virgin Islands	US	4/11/2020 22:45	51	1	0
+Western Australia	Australia	4/11/2020 22:52	514	6	216
+Xinjiang	China	3/8/2020 5:31	76	3	73
+Yukon	Canada	4/11/2020 22:52	8	0	0
+Yunnan	China	4/11/2020 0:13	184	2	174
+Zhejiang	China	4/11/2020 2:04	1267	1	1236
+	Afghanistan	4/11/2020 22:45	555	18	32
+	Albania	4/11/2020 22:45	433	23	197
+	Algeria	4/11/2020 22:45	1825	275	460
+	Andorra	4/11/2020 22:45	601	26	71
+	Angola	4/11/2020 22:45	19	2	4
+	Antigua and Barbuda	4/11/2020 22:45	21	2	0
+	Argentina	4/11/2020 22:45	1975	83	440
+	Armenia	4/11/2020 22:45	967	13	173
+	Austria	4/11/2020 22:45	13806	337	6604
+	Azerbaijan	4/11/2020 22:45	1058	11	200
+	Bahamas	4/11/2020 22:45	46	8	5
+	Bahrain	4/11/2020 22:45	1040	6	555
+	Bangladesh	4/11/2020 22:45	482	30	36
+	Barbados	4/11/2020 22:45	68	4	11
+	Belarus	4/11/2020 22:45	2226	23	172
+	Belgium	4/11/2020 22:45	28018	3346	5986
+	Belize	4/11/2020 22:45	13	2	0
+	Benin	4/11/2020 22:45	35	1	5
+	Bhutan	4/11/2020 22:45	5	0	2
+	Bolivia	4/11/2020 22:45	275	20	2
+	Bosnia and Herzegovina	4/11/2020 22:45	946	37	139
+	Botswana	4/11/2020 22:45	13	1	0
+	Brazil	4/11/2020 22:45	20727	1124	173
+	Brunei	4/11/2020 22:45	136	1	104
+	Bulgaria	4/11/2020 22:45	661	28	62
+	Burkina Faso	4/11/2020 22:45	484	27	155
+	Burma	4/11/2020 22:45	38	3	2
+	Burundi	4/11/2020 22:45	5	0	0
+	Cabo Verde	4/11/2020 22:45	8	1	1
+	Cambodia	4/11/2020 22:45	120	0	75
+	Cameroon	4/11/2020 22:45	820	12	98
+	Central African Republic	4/11/2020 22:45	8	0	0
+	Chad	4/11/2020 22:45	11	0	2
+	Chile	4/11/2020 22:45	6927	73	1864
+	Colombia	4/11/2020 22:45	2709	100	214
+	Congo (Brazzaville)	4/11/2020 22:45	60	5	5
+	Congo (Kinshasa)	4/11/2020 22:45	223	20	16
+	Costa Rica	4/11/2020 22:45	577	3	49
+	Cote d'Ivoire	4/11/2020 22:45	533	4	58
+	Croatia	4/11/2020 22:45	1534	21	323
+	Cuba	4/11/2020 22:45	620	16	77
+	Cyprus	4/11/2020 22:45	616	10	61
+	Czechia	4/11/2020 22:45	5831	129	411
+	Denmark	4/11/2020 22:45	5996	260	1955
+	Diamond Princess	4/11/2020 22:45	712	11	619
+	Djibouti	4/11/2020 22:45	187	2	36
+	Dominica	4/11/2020 22:45	16	0	5
+	Dominican Republic	4/11/2020 22:45	2759	135	108
+	Ecuador	4/11/2020 22:45	7257	315	411
+	Egypt	4/11/2020 22:45	1939	146	426
+	El Salvador	4/11/2020 22:45	118	6	19
+	Equatorial Guinea	4/11/2020 22:45	18	0	3
+	Eritrea	4/11/2020 22:45	34	0	0
+	Estonia	4/11/2020 22:45	1304	24	93
+	Eswatini	4/11/2020 22:45	12	0	7
+	Ethiopia	4/11/2020 22:45	69	3	10
+	Fiji	4/11/2020 22:45	16	0	0
+	Finland	4/11/2020 22:45	2905	49	300
+	France	4/11/2020 22:45	129654	13832	26391
+	Gabon	4/11/2020 22:45	46	1	1
+	Gambia	4/11/2020 22:45	9	1	2
+	Georgia	4/11/2020 22:45	242	3	60
+	Germany	4/11/2020 22:45	124908	2736	57400
+	Ghana	4/11/2020 22:45	408	8	4
+	Greece	4/11/2020 22:45	2081	93	269
+	Grenada	4/11/2020 22:45	14	0	0
+	Guatemala	4/11/2020 22:45	137	3	19
+	Guinea	4/11/2020 22:45	250	0	17
+	Guinea-Bissau	4/11/2020 22:45	38	0	0
+	Guyana	4/11/2020 22:45	45	6	8
+	Haiti	4/11/2020 22:45	33	2	0
+	Holy See	4/11/2020 22:45	8	0	2
+	Honduras	4/11/2020 22:45	392	24	7
+	Hungary	4/11/2020 22:45	1310	85	115
+	Iceland	4/11/2020 22:45	1689	8	841
+	India	4/11/2020 22:45	8446	288	969
+	Indonesia	4/11/2020 22:45	3842	327	286
+	Iran	4/11/2020 22:45	70029	4357	41947
+	Iraq	4/11/2020 22:45	1318	72	601
+	Ireland	4/11/2020 22:45	8928	320	25
+	Israel	4/11/2020 22:45	10743	101	1341
+	Italy	4/11/2020 22:45	152271	19468	32534
+	Jamaica	4/11/2020 22:45	65	4	13
+	Japan	4/11/2020 22:45	6005	99	762
+	Jordan	4/11/2020 22:45	381	7	177
+	Kazakhstan	4/11/2020 22:45	865	10	81
+	Kenya	4/11/2020 22:45	191	7	24
+	"Korea, South"	4/11/2020 22:45	10480	211	7243
+	Kosovo	4/11/2020 22:45	283	7	58
+	Kuwait	4/11/2020 22:45	1154	1	133
+	Kyrgyzstan	4/11/2020 22:45	339	5	44
+	Laos	4/11/2020 22:45	18	0	0
+	Latvia	4/11/2020 22:45	630	3	16
+	Lebanon	4/11/2020 22:45	619	20	77
+	Liberia	4/11/2020 22:45	48	5	3
+	Libya	4/11/2020 22:45	24	1	8
+	Liechtenstein	4/11/2020 22:45	79	1	55
+	Lithuania	4/11/2020 22:45	1026	23	54
+	Luxembourg	4/11/2020 22:45	3270	62	500
+	MS Zaandam	4/11/2020 22:45	9	2	0
+	Madagascar	4/11/2020 22:45	102	0	11
+	Malawi	4/11/2020 22:45	12	2	0
+	Malaysia	4/11/2020 22:45	4530	73	1995
+	Maldives	4/11/2020 22:45	19	0	13
+	Mali	4/11/2020 22:45	87	7	22
+	Malta	4/11/2020 22:45	370	3	16
+	Mauritania	4/11/2020 22:45	7	1	2
+	Mauritius	4/11/2020 22:45	319	9	28
+	Mexico	4/11/2020 22:45	3844	233	633
+	Moldova	4/11/2020 22:45	1560	30	75
+	Monaco	4/11/2020 22:45	92	1	5
+	Mongolia	4/11/2020 22:45	16	0	4
+	Montenegro	4/11/2020 22:45	263	2	5
+	Morocco	4/11/2020 22:45	1545	111	146
+	Mozambique	4/11/2020 22:45	20	0	2
+	Namibia	4/11/2020 22:45	16	0	3
+	Nepal	4/11/2020 22:45	9	0	1
+	Netherlands	4/11/2020 22:45	24413	2643	250
+	New Zealand	4/11/2020 22:45	1312	4	422
+	Nicaragua	4/11/2020 22:45	8	1	0
+	Niger	4/11/2020 22:45	491	11	41
+	Nigeria	4/11/2020 22:45	318	10	70
+	North Macedonia	4/11/2020 22:45	760	34	41
+	Norway	4/11/2020 22:45	6409	119	32
+	Oman	4/11/2020 22:45	546	3	109
+	Pakistan	4/11/2020 22:45	5011	86	762
+	Panama	4/11/2020 22:45	2974	74	17
+	Papua New Guinea	4/11/2020 22:45	2	0	0
+	Paraguay	4/11/2020 22:45	133	6	18
+	Peru	4/11/2020 22:45	6848	181	1739
+	Philippines	4/11/2020 22:45	4428	247	157
+	Poland	4/11/2020 22:45	6356	208	375
+	Portugal	4/11/2020 22:45	15987	470	266
+	Qatar	4/11/2020 22:45	2728	6	247
+	Romania	4/11/2020 22:45	5990	291	758
+	Russia	4/11/2020 22:45	13584	106	1045
+	Rwanda	4/11/2020 22:45	120	0	18
+	Saint Kitts and Nevis	4/11/2020 22:45	12	0	0
+	Saint Lucia	4/11/2020 22:45	15	0	1
+	Saint Vincent and the Grenadines	4/11/2020 22:45	12	0	1
+	San Marino	4/11/2020 22:45	356	35	53
+	Sao Tome and Principe	4/11/2020 22:45	4	0	0
+	Saudi Arabia	4/11/2020 22:45	4033	52	720
+	Senegal	4/11/2020 22:45	278	2	152
+	Serbia	4/11/2020 22:45	3380	74	0
+	Seychelles	4/11/2020 22:45	11	0	0
+	Sierra Leone	4/11/2020 22:45	8	0	0
+	Singapore	4/11/2020 22:45	2299	8	528
+	Slovakia	4/11/2020 22:45	728	2	23
+	Slovenia	4/11/2020 22:45	1188	50	148
+	Somalia	4/11/2020 22:45	21	1	1
+	South Africa	4/11/2020 22:45	2028	25	410
+	South Sudan	4/11/2020 22:45	4	0	0
+	Spain	4/11/2020 22:45	163027	16606	59109
+	Sri Lanka	4/11/2020 22:45	198	7	54
+	Sudan	4/11/2020 22:45	19	2	2
+	Suriname	4/11/2020 22:45	10	1	4
+	Sweden	4/11/2020 22:45	10151	887	381
+	Switzerland	4/11/2020 22:45	25107	1036	12100
+	Syria	4/11/2020 22:45	25	2	5
+	Taiwan*	4/11/2020 8:05	385	6	99
+	Tanzania	4/11/2020 22:45	32	3	5
+	Thailand	4/11/2020 22:45	2518	35	1135
+	Timor-Leste	4/11/2020 22:45	2	0	1
+	Togo	4/11/2020 22:45	76	3	25
+	Trinidad and Tobago	4/11/2020 22:45	112	8	12
+	Tunisia	4/11/2020 22:45	685	28	43
+	Turkey	4/11/2020 22:45	52167	1101	2965
+	Uganda	4/11/2020 22:45	53	0	4
+	Ukraine	4/11/2020 22:45	2511	73	79
+	United Arab Emirates	4/11/2020 22:45	3736	20	588
+	United Kingdom	4/11/2020 22:45	78991	9875	344
+	Uruguay	4/11/2020 22:45	494	7	214
+	Uzbekistan	4/11/2020 22:45	767	4	42
+	Venezuela	4/11/2020 22:45	175	9	93
+	Vietnam	4/11/2020 22:45	258	0	144
+	West Bank and Gaza	4/11/2020 22:45	268	2	57
+	Western Sahara	4/11/2020 22:45	4	0	0
+	Yemen	4/11/2020 22:45	1	0	0
+	Zambia	4/11/2020 22:45	40	2	28
+	Zimbabwe	4/11/2020 22:45	14	3	0
+Utah	US	4/11/2020 22:45	0	5	0
